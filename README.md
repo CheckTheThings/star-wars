@@ -1,2 +1,2 @@
-# star-wars
-Star Wars data
+# Star Wars
+Star Wars data for use with Check The Things (coming soon)
