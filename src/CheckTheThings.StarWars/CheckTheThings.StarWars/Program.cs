@@ -42,7 +42,7 @@ static async Task SaveTodosJsonAsync(string fileName, List<Todo> newTodos, JsonS
 
 static async Task<IEnumerable<Media>> GetMedia()
 {
-    var canonTask = Task.FromResult(new List<Media>(0));// TimelineParser.ParseCanonTimelineAsync();
+    var canonTask = TimelineParser.ParseCanonTimelineAsync();
     var legendsTask = TimelineParser.ParseLegendsTimelineAsync();
 
     await Task.WhenAll(canonTask, legendsTask);
