@@ -61,6 +61,7 @@ namespace CheckTheThings.StarWars
                 });
             updatedMedia = updatedMedia
                 .Where(x => x.ReleaseDate != null)
+                .Where(x => x.IsPublished())
                 .OrderBy(x => x.ReleaseDate)
                 .ThenBy(x => x.Name);
             return updatedMedia;
