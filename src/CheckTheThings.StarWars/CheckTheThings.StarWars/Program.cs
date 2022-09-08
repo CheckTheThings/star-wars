@@ -23,20 +23,34 @@ namespace CheckTheThings.StarWars
             await SaveTodosJsonAsync(TodosFileName, todos);
 
             var listGenerator = new ListGenerator(todos);
-            await listGenerator.CreateList("Skywalker Saga", updatedMedia.Where(x => x.IsMovie() && x.Title.StartsWith("Star Wars: Episode")));
+            //await listGenerator.CreateList("Skywalker Saga", updatedMedia.Where(x => x.IsMovie() && x.Title.StartsWith("Star Wars: Episode")));
 
             await AddCanonLists(updatedMedia, listGenerator);
+            await AddLegendsLists(updatedMedia, listGenerator);
 
             int GetNextTodoId() => ++maxId;
         }
 
         private static async Task AddCanonLists(List<Media> updatedMedia, ListGenerator listGenerator)
         {
-            var canonMedia = updatedMedia.Where(x => x.IsCanon()).ToList();
-            await listGenerator.CreateList("Comics (Canon)", canonMedia.Where(x => x.IsComic()));
-            await listGenerator.CreateList("Movies (Canon)", canonMedia.Where(x => x.IsMovie()));
-            await listGenerator.CreateList("Novels (Canon)", canonMedia.Where(x => x.IsNovel()));
-            await listGenerator.CreateList("Short Stories (Canon)", canonMedia.Where(x => x.IsShortStory()));
+            var media = updatedMedia.Where(x => x.IsCanon()).ToList();
+            await listGenerator.CreateList(GetTitle("Comics"), media.Where(x => x.IsComic()));
+            await listGenerator.CreateList(GetTitle("Movies"), media.Where(x => x.IsMovie()));
+            await listGenerator.CreateList(GetTitle("Novels"), media.Where(x => x.IsNovel()));
+            await listGenerator.CreateList(GetTitle("Short Stories"), media.Where(x => x.IsShortStory()));
+
+            static string GetTitle(string baseTitle) => $"{baseTitle} (Canon)";
+        }
+
+        private static async Task AddLegendsLists(List<Media> updatedMedia, ListGenerator listGenerator)
+        {
+            var media = updatedMedia.Where(x => x.IsLegends()).ToList();
+            await listGenerator.CreateList(GetTitle("Comics"), media.Where(x => x.IsComic()));
+            await listGenerator.CreateList(GetTitle("Movies"), media.Where(x => x.IsMovie()));
+            await listGenerator.CreateList(GetTitle("Novels"), media.Where(x => x.IsNovel()));
+            await listGenerator.CreateList(GetTitle("Short Stories"), media.Where(x => x.IsShortStory()));
+
+            static string GetTitle(string baseTitle) => $"{baseTitle} (Legends)";
         }
 
         static async Task<List<Todo>> ReadTodosFromJsonAsync(string fileName)

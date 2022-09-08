@@ -1,0 +1,2910 @@
+{
+  "id": 6,
+  "title": "Comics (Legends)",
+  "items": [
+    {
+      "id": 2,
+      "title": "Star Wars (1977) 1"
+    },
+    {
+      "id": 3,
+      "title": "Star Wars (1977) 2"
+    },
+    {
+      "id": 4,
+      "title": "Star Wars (1977) 3"
+    },
+    {
+      "id": 6,
+      "title": "Star Wars (1977) 4"
+    },
+    {
+      "id": 7,
+      "title": "Star Wars (1977) 5"
+    },
+    {
+      "id": 8,
+      "title": "Star Wars (1977) 6"
+    },
+    {
+      "id": 9,
+      "title": "The Keeper\u0027s World"
+    },
+    {
+      "id": 10,
+      "title": "Star Wars (1977) 7"
+    },
+    {
+      "id": 11,
+      "title": "Star Wars (1977) 8"
+    },
+    {
+      "id": 12,
+      "title": "Star Wars (1977) 9"
+    },
+    {
+      "id": 13,
+      "title": "Star Wars (1977) 10"
+    },
+    {
+      "id": 14,
+      "title": "Star Wars (1977) 11"
+    },
+    {
+      "id": 16,
+      "title": "Star Wars (1977) 12"
+    },
+    {
+      "id": 17,
+      "title": "Star Wars (1977) 13"
+    },
+    {
+      "id": 18,
+      "title": "Star Wars (1977) 14"
+    },
+    {
+      "id": 19,
+      "title": "Star Wars (1977) 15"
+    },
+    {
+      "id": 20,
+      "title": "Star Wars (1977) 16"
+    },
+    {
+      "id": 21,
+      "title": "The Kingdom of Ice"
+    },
+    {
+      "id": 22,
+      "title": "Star Wars (1977) 17"
+    },
+    {
+      "id": 23,
+      "title": "Star Wars (1977) 18"
+    },
+    {
+      "id": 24,
+      "title": "Star Wars (1977) 19"
+    },
+    {
+      "id": 26,
+      "title": "Star Wars (1977) 20"
+    },
+    {
+      "id": 27,
+      "title": "Star Wars (1977) 21"
+    },
+    {
+      "id": 28,
+      "title": "Way of the Wookiee!"
+    },
+    {
+      "id": 29,
+      "title": "Star Wars (1977) 22"
+    },
+    {
+      "id": 30,
+      "title": "Star Wars (1977) 23"
+    },
+    {
+      "id": 31,
+      "title": "Star Wars (1977) 24"
+    },
+    {
+      "id": 33,
+      "title": "Star Wars (1977) 25"
+    },
+    {
+      "id": 34,
+      "title": "Star Wars (1977) 26"
+    },
+    {
+      "id": 35,
+      "title": "Star Wars (1977) 27"
+    },
+    {
+      "id": 36,
+      "title": "Star Wars (1977) 28"
+    },
+    {
+      "id": 37,
+      "title": "The Constancia Affair"
+    },
+    {
+      "id": 38,
+      "title": "Star Wars (1977) 29"
+    },
+    {
+      "id": 39,
+      "title": "Gambler\u0027s World"
+    },
+    {
+      "id": 40,
+      "title": "The Kashyyyk Depths"
+    },
+    {
+      "id": 41,
+      "title": "Star Wars Annual (1977) 1"
+    },
+    {
+      "id": 42,
+      "title": "Star Wars (1977) 31"
+    },
+    {
+      "id": 44,
+      "title": "Tatooine Sojourn"
+    },
+    {
+      "id": 45,
+      "title": "Star Wars (1977) 30"
+    },
+    {
+      "id": 46,
+      "title": "Princess Leia, Imperial Servant"
+    },
+    {
+      "id": 47,
+      "title": "The Day after the Death Star!"
+    },
+    {
+      "id": 48,
+      "title": "Star Wars (1977) 34"
+    },
+    {
+      "id": 49,
+      "title": "Star Wars (1977) 32"
+    },
+    {
+      "id": 50,
+      "title": "The Weapons Master!"
+    },
+    {
+      "id": 51,
+      "title": "The Second Kessel Run"
+    },
+    {
+      "id": 52,
+      "title": "Star Wars (1977) 33"
+    },
+    {
+      "id": 53,
+      "title": "World of Fire!"
+    },
+    {
+      "id": 54,
+      "title": "Star Wars (1977) 36"
+    },
+    {
+      "id": 55,
+      "title": "Star Wars (1977) 37"
+    },
+    {
+      "id": 56,
+      "title": "The Word for World is Death!"
+    },
+    {
+      "id": 58,
+      "title": "Bring Me the Children"
+    },
+    {
+      "id": 59,
+      "title": "Star Wars (1977) 35"
+    },
+    {
+      "id": 60,
+      "title": "The Guardian of Forever!"
+    },
+    {
+      "id": 62,
+      "title": "Star Wars (1977) 38"
+    },
+    {
+      "id": 63,
+      "title": "Star Wars (1977) 39"
+    },
+    {
+      "id": 64,
+      "title": "As Long As We Live..."
+    },
+    {
+      "id": 65,
+      "title": "Star Wars (1977) 40"
+    },
+    {
+      "id": 66,
+      "title": "The Frozen World of Ota"
+    },
+    {
+      "id": 68,
+      "title": "Star Wars (1977) 41"
+    },
+    {
+      "id": 69,
+      "title": "Star Wars (1977) 42"
+    },
+    {
+      "id": 70,
+      "title": "Planet of Kadril"
+    },
+    {
+      "id": 71,
+      "title": "Han Solo at Stars\u0027 End (comic strip)"
+    },
+    {
+      "id": 72,
+      "title": "Star Wars (1977) 43"
+    },
+    {
+      "id": 73,
+      "title": "Star Wars (1977) 44"
+    },
+    {
+      "id": 74,
+      "title": "Star Wars (1977) 45"
+    },
+    {
+      "id": 75,
+      "title": "Star Wars (1977) 46"
+    },
+    {
+      "id": 76,
+      "title": "Star Wars (1977) 47"
+    },
+    {
+      "id": 77,
+      "title": "Star Wars (1977) 48"
+    },
+    {
+      "id": 78,
+      "title": "The Bounty Hunter of Ord Mantell"
+    },
+    {
+      "id": 79,
+      "title": "Star Wars (1977) 49"
+    },
+    {
+      "id": 80,
+      "title": "Star Wars (1977) 50"
+    },
+    {
+      "id": 81,
+      "title": "Star Wars (1977) 51"
+    },
+    {
+      "id": 82,
+      "title": "Star Wars (1977) 52"
+    },
+    {
+      "id": 83,
+      "title": "Darth Vader Strikes"
+    },
+    {
+      "id": 84,
+      "title": "Star Wars (1977) 53"
+    },
+    {
+      "id": 85,
+      "title": "The Empire Strikes Back Monthly 149"
+    },
+    {
+      "id": 86,
+      "title": "Star Wars (1977) 55"
+    },
+    {
+      "id": 87,
+      "title": "Star Wars (1977) 56"
+    },
+    {
+      "id": 88,
+      "title": "The Pandora Effect"
+    },
+    {
+      "id": 89,
+      "title": "The Serpent Masters"
+    },
+    {
+      "id": 90,
+      "title": "Deadly Reunion"
+    },
+    {
+      "id": 91,
+      "title": "Star Wars (1977) 54"
+    },
+    {
+      "id": 92,
+      "title": "Dark Knight\u0027s Devilry"
+    },
+    {
+      "id": 93,
+      "title": "Star Wars (1977) 58"
+    },
+    {
+      "id": 94,
+      "title": "Star Wars (1977) 57"
+    },
+    {
+      "id": 95,
+      "title": "Traitor\u0027s Gambit"
+    },
+    {
+      "id": 96,
+      "title": "Star Wars (1977) 60"
+    },
+    {
+      "id": 97,
+      "title": "Dark Lord\u0027s Conscience"
+    },
+    {
+      "id": 98,
+      "title": "Star Wars (1977) 61"
+    },
+    {
+      "id": 99,
+      "title": "Rust Never Sleeps"
+    },
+    {
+      "id": 100,
+      "title": "Star Wars (1977) 59"
+    },
+    {
+      "id": 101,
+      "title": "The Night Beast"
+    },
+    {
+      "id": 102,
+      "title": "Star Wars (1977) 62"
+    },
+    {
+      "id": 103,
+      "title": "Star Wars (1977) 63"
+    },
+    {
+      "id": 104,
+      "title": "Blind Fury!"
+    },
+    {
+      "id": 105,
+      "title": "Star Wars (1977) 64"
+    },
+    {
+      "id": 106,
+      "title": "The Return of Ben Kenobi"
+    },
+    {
+      "id": 107,
+      "title": "Star Wars (1977) 65"
+    },
+    {
+      "id": 108,
+      "title": "Star Wars Annual (1977) 2"
+    },
+    {
+      "id": 109,
+      "title": "The Power Gem"
+    },
+    {
+      "id": 110,
+      "title": "Star Wars (1977) 67"
+    },
+    {
+      "id": 111,
+      "title": "Iceworld"
+    },
+    {
+      "id": 112,
+      "title": "Revenge of the Jedi"
+    },
+    {
+      "id": 113,
+      "title": "Star Wars (1977) 66"
+    },
+    {
+      "id": 114,
+      "title": "Star Wars (1977) 69"
+    },
+    {
+      "id": 115,
+      "title": "Star Wars (1977) 71"
+    },
+    {
+      "id": 117,
+      "title": "Star Wars (1977) 70"
+    },
+    {
+      "id": 118,
+      "title": "Star Wars (1977) 68"
+    },
+    {
+      "id": 119,
+      "title": "Star Wars (1977) 72"
+    },
+    {
+      "id": 120,
+      "title": "Star Wars (1977) 73"
+    },
+    {
+      "id": 121,
+      "title": "Doom Mission"
+    },
+    {
+      "id": 122,
+      "title": "Star Wars (1977) 74"
+    },
+    {
+      "id": 124,
+      "title": "Star Wars (1977) 75"
+    },
+    {
+      "id": 127,
+      "title": "Star Wars (1977) 76"
+    },
+    {
+      "id": 128,
+      "title": "Race for Survival"
+    },
+    {
+      "id": 130,
+      "title": "Star Wars (1977) 77"
+    },
+    {
+      "id": 131,
+      "title": "Star Wars Annual (1977) 3"
+    },
+    {
+      "id": 133,
+      "title": "The Paradise Detour"
+    },
+    {
+      "id": 134,
+      "title": "Star Wars (1977) 79"
+    },
+    {
+      "id": 136,
+      "title": "Return of the Jedi 3"
+    },
+    {
+      "id": 137,
+      "title": "A New Beginning"
+    },
+    {
+      "id": 138,
+      "title": "Showdown"
+    },
+    {
+      "id": 139,
+      "title": "Return of the Jedi 4"
+    },
+    {
+      "id": 142,
+      "title": "Star Wars (1977) 82"
+    },
+    {
+      "id": 143,
+      "title": "Star Wars (1977) 80"
+    },
+    {
+      "id": 144,
+      "title": "Star Wars (1977) 81"
+    },
+    {
+      "id": 145,
+      "title": "The Final Trap"
+    },
+    {
+      "id": 147,
+      "title": "Star Wars (1977) 84"
+    },
+    {
+      "id": 148,
+      "title": "Star Wars (1977) 85"
+    },
+    {
+      "id": 149,
+      "title": "Star Wars (1977) 86"
+    },
+    {
+      "id": 150,
+      "title": "Star Wars (1977) 83"
+    },
+    {
+      "id": 152,
+      "title": "Star Wars (1977) 87"
+    },
+    {
+      "id": 153,
+      "title": "Star Wars (1977) 88"
+    },
+    {
+      "id": 155,
+      "title": "Star Wars (1977) 89"
+    },
+    {
+      "id": 156,
+      "title": "Star Wars (1977) 90"
+    },
+    {
+      "id": 157,
+      "title": "Star Wars (1977) 91"
+    },
+    {
+      "id": 163,
+      "title": "Star Wars (1977) 94"
+    },
+    {
+      "id": 164,
+      "title": "Star Wars (1977) 92"
+    },
+    {
+      "id": 165,
+      "title": "Star Wars (1977) 95"
+    },
+    {
+      "id": 166,
+      "title": "Star Wars (1977) 93"
+    },
+    {
+      "id": 168,
+      "title": "Star Wars (1977) 96"
+    },
+    {
+      "id": 169,
+      "title": "Star Wars (1977) 97"
+    },
+    {
+      "id": 170,
+      "title": "Star Wars (1977) 98"
+    },
+    {
+      "id": 171,
+      "title": "Ewoks 1"
+    },
+    {
+      "id": 172,
+      "title": "Star Wars (1977) 99"
+    },
+    {
+      "id": 173,
+      "title": "Star Wars (1977) 100"
+    },
+    {
+      "id": 174,
+      "title": "Ewoks 2"
+    },
+    {
+      "id": 175,
+      "title": "Star Wars (1977) 101"
+    },
+    {
+      "id": 176,
+      "title": "Star Wars (1977) 102"
+    },
+    {
+      "id": 177,
+      "title": "Ewoks 3"
+    },
+    {
+      "id": 190,
+      "title": "Star Wars (1977) 103"
+    },
+    {
+      "id": 195,
+      "title": "Ewoks 4"
+    },
+    {
+      "id": 208,
+      "title": "Ewoks 5"
+    },
+    {
+      "id": 215,
+      "title": "Ewoks 6"
+    },
+    {
+      "id": 216,
+      "title": "Star Wars (1977) 104"
+    },
+    {
+      "id": 217,
+      "title": "Star Wars (1977) 106"
+    },
+    {
+      "id": 218,
+      "title": "Droids (1986) 1"
+    },
+    {
+      "id": 220,
+      "title": "Ewoks 7"
+    },
+    {
+      "id": 221,
+      "title": "Star Wars (1977) 105"
+    },
+    {
+      "id": 222,
+      "title": "Star Wars (1977) 107"
+    },
+    {
+      "id": 223,
+      "title": "Droids (1986) 2"
+    },
+    {
+      "id": 225,
+      "title": "Ewoks 8"
+    },
+    {
+      "id": 226,
+      "title": "Droids (1986) 3"
+    },
+    {
+      "id": 227,
+      "title": "Ewoks 9"
+    },
+    {
+      "id": 233,
+      "title": "Droids (1986) 4"
+    },
+    {
+      "id": 241,
+      "title": "Ewoks 10"
+    },
+    {
+      "id": 249,
+      "title": "Droids (1986) 5"
+    },
+    {
+      "id": 255,
+      "title": "Ewoks 11"
+    },
+    {
+      "id": 256,
+      "title": "Ewoks 14"
+    },
+    {
+      "id": 259,
+      "title": "Droids (1986) 6"
+    },
+    {
+      "id": 260,
+      "title": "Ewoks 12"
+    },
+    {
+      "id": 261,
+      "title": "Droids (1986) 7"
+    },
+    {
+      "id": 262,
+      "title": "Ewoks 13"
+    },
+    {
+      "id": 263,
+      "title": "Droids (1986) 8"
+    },
+    {
+      "id": 269,
+      "title": "Star Wars 3-D 1"
+    },
+    {
+      "id": 270,
+      "title": "Ewoks Annual"
+    },
+    {
+      "id": 271,
+      "title": "Star Wars 3-D 2"
+    },
+    {
+      "id": 272,
+      "title": "Star Wars 3-D 3"
+    },
+    {
+      "id": 292,
+      "title": "Star Wars: Dark Empire"
+    },
+    {
+      "id": 316,
+      "title": "Star Wars: Tales of the Jedi \u2014 Ulic Qel-Droma and the Beast Wars of Onderon"
+    },
+    {
+      "id": 318,
+      "title": "Star Wars: Tales of the Jedi \u2014 The Saga of Nomi Sunrider"
+    },
+    {
+      "id": 334,
+      "title": "Droids (1994) 1"
+    },
+    {
+      "id": 335,
+      "title": "Droids (1994) 2"
+    },
+    {
+      "id": 341,
+      "title": "Droids (1994) 3"
+    },
+    {
+      "id": 343,
+      "title": "Droids (1994) 4"
+    },
+    {
+      "id": 352,
+      "title": "Star Wars: Tales of the Jedi \u2014 The Freedon Nadd Uprising"
+    },
+    {
+      "id": 353,
+      "title": "Droids (1994) 5"
+    },
+    {
+      "id": 355,
+      "title": "Droids (1994) 6"
+    },
+    {
+      "id": 356,
+      "title": "Star Wars: Droids: Artoo\u0027s Day Out"
+    },
+    {
+      "id": 357,
+      "title": "Classic Star Wars: Return of the Jedi 1"
+    },
+    {
+      "id": 358,
+      "title": "Star Wars: Tales of the Jedi - Dark Lords of the Sith"
+    },
+    {
+      "id": 359,
+      "title": "Classic Star Wars: Return of the Jedi 2"
+    },
+    {
+      "id": 367,
+      "title": "Star Wars: Droids (Apple Jacks)"
+    },
+    {
+      "id": 369,
+      "title": "Star Wars: The Mixed-Up Droid (comic)"
+    },
+    {
+      "id": 370,
+      "title": "Star Wars: Droids Special 1"
+    },
+    {
+      "id": 378,
+      "title": "Tales from Mos Eisley: Mostly Automatic"
+    },
+    {
+      "id": 380,
+      "title": "Jabba the Hutt: The Gaar Suppoon Hit"
+    },
+    {
+      "id": 390,
+      "title": "Jabba the Hutt: The Hunger of Princess Nampi"
+    },
+    {
+      "id": 393,
+      "title": "Star Wars Droids: Rebellion"
+    },
+    {
+      "id": 395,
+      "title": "Tales from Mos Eisley: Light Duty"
+    },
+    {
+      "id": 397,
+      "title": "Jabba the Hutt: The Dynasty Trap"
+    },
+    {
+      "id": 403,
+      "title": "Star Wars: Dark Empire II"
+    },
+    {
+      "id": 404,
+      "title": "X-Wing Rogue Squadron Special"
+    },
+    {
+      "id": 422,
+      "title": "Star Wars: Tales of the Jedi \u2014 The Sith War"
+    },
+    {
+      "id": 424,
+      "title": "Star Wars Droids: Season of Revolt"
+    },
+    {
+      "id": 428,
+      "title": "Heir to the Empire (comics)"
+    },
+    {
+      "id": 429,
+      "title": "Star Wars: X-Wing Rogue Squadron: The Rebel Opposition"
+    },
+    {
+      "id": 438,
+      "title": "Boba Fett: Bounty on Bar-Kooda"
+    },
+    {
+      "id": 470,
+      "title": "Jabba the Hutt: Betrayal"
+    },
+    {
+      "id": 472,
+      "title": "Tales from Mos Eisley: Heggs\u0027 Tale"
+    },
+    {
+      "id": 476,
+      "title": "Kenner Shadows of the Empire Special (Part 1)"
+    },
+    {
+      "id": 477,
+      "title": "Kenner Shadows of the Empire Special (Part 2)"
+    },
+    {
+      "id": 482,
+      "title": "Star Wars: X-Wing Rogue Squadron: The Phantom Affair"
+    },
+    {
+      "id": 484,
+      "title": "Shadows of the Empire 1"
+    },
+    {
+      "id": 502,
+      "title": "Shadows of the Empire 2"
+    },
+    {
+      "id": 514,
+      "title": "Shadows of the Empire 3"
+    },
+    {
+      "id": 515,
+      "title": "Star Wars: Tales of the Jedi \u2014 The Golden Age of the Sith"
+    },
+    {
+      "id": 516,
+      "title": "Battle of the Bounty Hunters"
+    },
+    {
+      "id": 519,
+      "title": "This Crumb for Hire"
+    },
+    {
+      "id": 520,
+      "title": "Shadows of the Empire 4"
+    },
+    {
+      "id": 521,
+      "title": "Star Wars: X-Wing Rogue Squadron: Battleground: Tatooine"
+    },
+    {
+      "id": 523,
+      "title": "Shadows of the Empire 5"
+    },
+    {
+      "id": 524,
+      "title": "Boba Fett: When the Fat Lady Swings"
+    },
+    {
+      "id": 525,
+      "title": "Tilotny Throws a Shape"
+    },
+    {
+      "id": 527,
+      "title": "Shadows of the Empire 6"
+    },
+    {
+      "id": 528,
+      "title": "Star Wars: X-Wing Rogue Squadron: The Warrior Princess"
+    },
+    {
+      "id": 536,
+      "title": "Splinter of the Mind\u0027s Eye (comics)"
+    },
+    {
+      "id": 545,
+      "title": "Boba Fett: Twin Engines of Destruction"
+    },
+    {
+      "id": 550,
+      "title": "Star Wars: A New Hope - The Special Edition 1"
+    },
+    {
+      "id": 556,
+      "title": "X-Wing Rogue Squadron \u00BD"
+    },
+    {
+      "id": 559,
+      "title": "Star Wars: A New Hope - The Special Edition 2"
+    },
+    {
+      "id": 563,
+      "title": "Star Wars: A New Hope - The Special Edition 3"
+    },
+    {
+      "id": 566,
+      "title": "Star Wars: A New Hope - The Special Edition 4"
+    },
+    {
+      "id": 568,
+      "title": "Dark Force Rising (comics)"
+    },
+    {
+      "id": 580,
+      "title": "Star Wars: X-Wing Rogue Squadron: Requiem for a Rogue"
+    },
+    {
+      "id": 581,
+      "title": "Tales of the Jedi \u2013 The Fall of the Sith Empire 1"
+    },
+    {
+      "id": 586,
+      "title": "Tales of the Jedi \u2013 The Fall of the Sith Empire 2"
+    },
+    {
+      "id": 595,
+      "title": "Boba Fett: Murder Most Foul"
+    },
+    {
+      "id": 596,
+      "title": "Tales of the Jedi \u2013 The Fall of the Sith Empire 3"
+    },
+    {
+      "id": 599,
+      "title": "Star Wars: Empire\u0027s End"
+    },
+    {
+      "id": 601,
+      "title": "Star Wars Droids: The Protocol Offensive"
+    },
+    {
+      "id": 603,
+      "title": "Tales of the Jedi \u2013 The Fall of the Sith Empire 4"
+    },
+    {
+      "id": 605,
+      "title": "The Rebel Thief"
+    },
+    {
+      "id": 608,
+      "title": "Tales of the Jedi \u2013 The Fall of the Sith Empire 5"
+    },
+    {
+      "id": 619,
+      "title": "Star Wars: X-Wing Rogue Squadron: In the Empire\u0027s Service"
+    },
+    {
+      "id": 620,
+      "title": "X-Wing Rogue Squadron 25"
+    },
+    {
+      "id": 622,
+      "title": "Shadow Stalker"
+    },
+    {
+      "id": 623,
+      "title": "The Last Command (comics)"
+    },
+    {
+      "id": 624,
+      "title": "Boba Fett \u00BD"
+    },
+    {
+      "id": 626,
+      "title": "X-Wing Marks the Spot"
+    },
+    {
+      "id": 633,
+      "title": "Star Wars: X-Wing Rogue Squadron: Family Ties"
+    },
+    {
+      "id": 649,
+      "title": "Star Wars: X-Wing Rogue Squadron: Masquerade"
+    },
+    {
+      "id": 651,
+      "title": "Star Wars: Tales of the Jedi - Redemption"
+    },
+    {
+      "id": 655,
+      "title": "Mara Jade \u2013 By the Emperor\u0027s Hand 1"
+    },
+    {
+      "id": 656,
+      "title": "Imperial Spy"
+    },
+    {
+      "id": 659,
+      "title": "Mara Jade \u2013 By the Emperor\u0027s Hand 2"
+    },
+    {
+      "id": 661,
+      "title": "Jedi Academy: Leviathan"
+    },
+    {
+      "id": 664,
+      "title": "Mara Jade \u2013 By the Emperor\u0027s Hand 3"
+    },
+    {
+      "id": 667,
+      "title": "Mara Jade \u2013 By the Emperor\u0027s Hand 4"
+    },
+    {
+      "id": 668,
+      "title": "Star Wars: X-Wing Rogue Squadron: Mandatory Retirement"
+    },
+    {
+      "id": 669,
+      "title": "Prelude to Rebellion 0"
+    },
+    {
+      "id": 670,
+      "title": "Star Wars: Republic: Prelude to Rebellion"
+    },
+    {
+      "id": 673,
+      "title": "Mara Jade \u2013 By the Emperor\u0027s Hand 5"
+    },
+    {
+      "id": 674,
+      "title": "Star Wars: Crimson Empire"
+    },
+    {
+      "id": 675,
+      "title": "The Jabba Tape"
+    },
+    {
+      "id": 676,
+      "title": "Boba Fett: Enemy of the Empire"
+    },
+    {
+      "id": 682,
+      "title": "Mara Jade \u2013 By the Emperor\u0027s Hand 6"
+    },
+    {
+      "id": 685,
+      "title": "Star Wars: Republic: Vow of Justice"
+    },
+    {
+      "id": 695,
+      "title": "Star Wars: Episode I \u2014 The Phantom Menace 1"
+    },
+    {
+      "id": 696,
+      "title": "Star Wars: Episode I \u2014 The Phantom Menace 2"
+    },
+    {
+      "id": 697,
+      "title": "Star Wars: Episode I \u2014 The Phantom Menace 3"
+    },
+    {
+      "id": 699,
+      "title": "Episode I: Anakin Skywalker"
+    },
+    {
+      "id": 702,
+      "title": "Star Wars: Episode I \u2014 The Phantom Menace 4"
+    },
+    {
+      "id": 703,
+      "title": "Episode I: Obi-Wan Kenobi"
+    },
+    {
+      "id": 704,
+      "title": "Star Wars: Republic: Outlander"
+    },
+    {
+      "id": 707,
+      "title": "Episode I: Qui-Gon Jinn"
+    },
+    {
+      "id": 708,
+      "title": "Episode I: The Phantom Menace \u00BD"
+    },
+    {
+      "id": 709,
+      "title": "Episode I: Queen Amidala"
+    },
+    {
+      "id": 712,
+      "title": "Luke Skywalker\u0027s Walkabout"
+    },
+    {
+      "id": 713,
+      "title": "The Bounty Hunters: Aurra Sing"
+    },
+    {
+      "id": 716,
+      "title": "The Bounty Hunters: Scoundrel\u0027s Wages"
+    },
+    {
+      "id": 718,
+      "title": "Extinction"
+    },
+    {
+      "id": 719,
+      "title": "Life, Death, and the Living Force"
+    },
+    {
+      "id": 720,
+      "title": "Mara Jade: A Night on the Town"
+    },
+    {
+      "id": 725,
+      "title": "The Bounty Hunters: Kenix Kil"
+    },
+    {
+      "id": 728,
+      "title": "Star Wars: Union"
+    },
+    {
+      "id": 729,
+      "title": "Crimson Empire II: Council of Blood"
+    },
+    {
+      "id": 740,
+      "title": "Vader\u0027s Quest"
+    },
+    {
+      "id": 741,
+      "title": "Star Wars: Republic: Emissaries to Malastare"
+    },
+    {
+      "id": 745,
+      "title": "Incident at Horn Station"
+    },
+    {
+      "id": 746,
+      "title": "Routine"
+    },
+    {
+      "id": 747,
+      "title": "Stop That Jawa!"
+    },
+    {
+      "id": 752,
+      "title": "Shadows of the Empire: Evolution"
+    },
+    {
+      "id": 756,
+      "title": "Hard Currency"
+    },
+    {
+      "id": 757,
+      "title": "Deal with a Demon"
+    },
+    {
+      "id": 758,
+      "title": "Lady Luck (comic)"
+    },
+    {
+      "id": 759,
+      "title": "The Death of Captain Tarpals"
+    },
+    {
+      "id": 760,
+      "title": "Three Against the Galaxy"
+    },
+    {
+      "id": 761,
+      "title": "Star Wars: Chewbacca (Dark Horse)"
+    },
+    {
+      "id": 772,
+      "title": "Star Wars: Poison Moon"
+    },
+    {
+      "id": 774,
+      "title": "Aurra\u0027s Song"
+    },
+    {
+      "id": 775,
+      "title": "Jedi Council: Acts of War"
+    },
+    {
+      "id": 776,
+      "title": "Moment of Doubt"
+    },
+    {
+      "id": 777,
+      "title": "Sand Blasted"
+    },
+    {
+      "id": 778,
+      "title": "Spare Parts (comic)"
+    },
+    {
+      "id": 784,
+      "title": "The Gambler\u0027s Quest"
+    },
+    {
+      "id": 792,
+      "title": "Star Wars: Darth Maul (Dark Horse)"
+    },
+    {
+      "id": 793,
+      "title": "A Summer\u0027s Dream"
+    },
+    {
+      "id": 794,
+      "title": "Hoth (comic)"
+    },
+    {
+      "id": 795,
+      "title": "Lando\u0027s Commandos: On Eagles\u0027 Wings"
+    },
+    {
+      "id": 796,
+      "title": "Yaddle\u0027s Tale: The One Below"
+    },
+    {
+      "id": 800,
+      "title": "Star Wars: Republic: Infinity\u0027s End"
+    },
+    {
+      "id": 805,
+      "title": "Boba Fett: Agent of Doom"
+    },
+    {
+      "id": 807,
+      "title": "Qui-Gon and Obi-Wan: Last Stand on Ord Mantell"
+    },
+    {
+      "id": 810,
+      "title": "Podracing Tales"
+    },
+    {
+      "id": 811,
+      "title": "A Hot Time in the Cold Town Tonite!"
+    },
+    {
+      "id": 812,
+      "title": "Thank the Maker"
+    },
+    {
+      "id": 813,
+      "title": "The Hovel on Terk Street"
+    },
+    {
+      "id": 815,
+      "title": "Battle for Theed"
+    },
+    {
+      "id": 820,
+      "title": "Star Wars (1998) 27"
+    },
+    {
+      "id": 821,
+      "title": "Jedi Chef"
+    },
+    {
+      "id": 822,
+      "title": "Nerf Herder"
+    },
+    {
+      "id": 823,
+      "title": "Outbid But Never Outgunned"
+    },
+    {
+      "id": 824,
+      "title": "Single Cell"
+    },
+    {
+      "id": 825,
+      "title": "Star Wars: Republic: The Hunt for Aurra Sing"
+    },
+    {
+      "id": 828,
+      "title": "Star Wars: Jedi vs. Sith"
+    },
+    {
+      "id": 832,
+      "title": "Bad Business"
+    },
+    {
+      "id": 833,
+      "title": "Captain Threepio"
+    },
+    {
+      "id": 834,
+      "title": "Death Star Pirates"
+    },
+    {
+      "id": 835,
+      "title": "The One That Got Away"
+    },
+    {
+      "id": 836,
+      "title": "The Secret Tales of Luke\u0027s Hand!"
+    },
+    {
+      "id": 837,
+      "title": "Heart of Fire (comic)"
+    },
+    {
+      "id": 841,
+      "title": "Star Wars: Republic: Darkness"
+    },
+    {
+      "id": 846,
+      "title": "Resurrection"
+    },
+    {
+      "id": 847,
+      "title": "Star Wars: Jedi Quest (comic series)"
+    },
+    {
+      "id": 854,
+      "title": "Underworld: The Yavin Vassilika"
+    },
+    {
+      "id": 855,
+      "title": "Star Wars: Republic: The Stark Hyperspace War"
+    },
+    {
+      "id": 857,
+      "title": "A Wookiee Scorned!"
+    },
+    {
+      "id": 858,
+      "title": "Free Memory"
+    },
+    {
+      "id": 859,
+      "title": "Nameless (comic)"
+    },
+    {
+      "id": 860,
+      "title": "Trooper (comic)"
+    },
+    {
+      "id": 861,
+      "title": "Star Wars: Republic: Twilight"
+    },
+    {
+      "id": 863,
+      "title": "Full of Surprises"
+    },
+    {
+      "id": 864,
+      "title": "Machines of War"
+    },
+    {
+      "id": 865,
+      "title": "Most Precious Weapon"
+    },
+    {
+      "id": 866,
+      "title": "Practice Makes Perfect"
+    },
+    {
+      "id": 868,
+      "title": "Starfighter: Crossbones"
+    },
+    {
+      "id": 877,
+      "title": "Star Wars: Jango Fett"
+    },
+    {
+      "id": 879,
+      "title": "Star Wars: Republic: The Devaronian Version"
+    },
+    {
+      "id": 880,
+      "title": "Tall Tales"
+    },
+    {
+      "id": 881,
+      "title": "The Princess Leia Diaries"
+    },
+    {
+      "id": 886,
+      "title": "Star Wars: Zam Wesell"
+    },
+    {
+      "id": 898,
+      "title": "Star Wars: Episode II \u2014 Attack of the Clones 1"
+    },
+    {
+      "id": 899,
+      "title": "Star Wars: Episode II \u2014 Attack of the Clones 2"
+    },
+    {
+      "id": 901,
+      "title": "Star Wars: Episode II \u2014 Attack of the Clones 3"
+    },
+    {
+      "id": 903,
+      "title": "Star Wars: Episode II \u2014 Attack of the Clones 4"
+    },
+    {
+      "id": 910,
+      "title": "Qui-Gon and Obi-Wan: The Aurorient Express"
+    },
+    {
+      "id": 911,
+      "title": "A Day in the Life"
+    },
+    {
+      "id": 912,
+      "title": "A Jedi\u0027s Weapon"
+    },
+    {
+      "id": 913,
+      "title": "Once Bitten"
+    },
+    {
+      "id": 914,
+      "title": "The Duty"
+    },
+    {
+      "id": 917,
+      "title": "Star Wars: Empire: Betrayal"
+    },
+    {
+      "id": 918,
+      "title": "Jango Fett: Open Seasons"
+    },
+    {
+      "id": 920,
+      "title": "Children of the Force (comic)"
+    },
+    {
+      "id": 921,
+      "title": "Puzzle Peace"
+    },
+    {
+      "id": 922,
+      "title": "Stones"
+    },
+    {
+      "id": 923,
+      "title": "Survivors (comic)"
+    },
+    {
+      "id": 924,
+      "title": "The Secret of Tet-Ami"
+    },
+    {
+      "id": 925,
+      "title": "The Sith in the Shadow"
+    },
+    {
+      "id": 928,
+      "title": "Star Wars: Republic: Honor and Duty"
+    },
+    {
+      "id": 937,
+      "title": "Apocalypse Endor"
+    },
+    {
+      "id": 938,
+      "title": "Mythology"
+    },
+    {
+      "id": 939,
+      "title": "The Lesson"
+    },
+    {
+      "id": 940,
+      "title": "Tides of Terror"
+    },
+    {
+      "id": 941,
+      "title": "Urchins"
+    },
+    {
+      "id": 944,
+      "title": "Republic 49"
+    },
+    {
+      "id": 952,
+      "title": "Star Wars: Empire: Princess... Warrior"
+    },
+    {
+      "id": 953,
+      "title": "A Valentine Story"
+    },
+    {
+      "id": 954,
+      "title": "Jedi: Mace Windu"
+    },
+    {
+      "id": 955,
+      "title": "Republic 50"
+    },
+    {
+      "id": 962,
+      "title": "Do or Do Not (comic)"
+    },
+    {
+      "id": 963,
+      "title": "Falling Star"
+    },
+    {
+      "id": 964,
+      "title": "First Impressions"
+    },
+    {
+      "id": 965,
+      "title": "Lucky Stars"
+    },
+    {
+      "id": 966,
+      "title": "Sandstorm (comic)"
+    },
+    {
+      "id": 967,
+      "title": "Slippery Slope"
+    },
+    {
+      "id": 970,
+      "title": "Empire 7"
+    },
+    {
+      "id": 972,
+      "title": "Republic 53"
+    },
+    {
+      "id": 978,
+      "title": "Jedi: Shaak Ti"
+    },
+    {
+      "id": 979,
+      "title": "Empire 8"
+    },
+    {
+      "id": 985,
+      "title": "Republic 54"
+    },
+    {
+      "id": 986,
+      "title": "Heart of Darkness"
+    },
+    {
+      "id": 987,
+      "title": "The Other (comic)"
+    },
+    {
+      "id": 991,
+      "title": "Empire 9"
+    },
+    {
+      "id": 992,
+      "title": "Republic 55"
+    },
+    {
+      "id": 994,
+      "title": "Star Wars: Empire: The Short, Happy Life of Roons Sewell"
+    },
+    {
+      "id": 995,
+      "title": "Republic 56"
+    },
+    {
+      "id": 1002,
+      "title": "Jedi: Aayla Secura"
+    },
+    {
+      "id": 1007,
+      "title": "Republic 57"
+    },
+    {
+      "id": 1010,
+      "title": "All for You"
+    },
+    {
+      "id": 1011,
+      "title": "Dark Journey (comic)"
+    },
+    {
+      "id": 1012,
+      "title": "Phantom Menaces"
+    },
+    {
+      "id": 1013,
+      "title": "The Apprentice (comic)"
+    },
+    {
+      "id": 1015,
+      "title": "Empire 12"
+    },
+    {
+      "id": 1030,
+      "title": "Empire 13"
+    },
+    {
+      "id": 1034,
+      "title": "Jedi: Count Dooku"
+    },
+    {
+      "id": 1035,
+      "title": "Empire 14"
+    },
+    {
+      "id": 1036,
+      "title": "Republic 58"
+    },
+    {
+      "id": 1037,
+      "title": "Empire 15"
+    },
+    {
+      "id": 1038,
+      "title": "Being Boba Fett"
+    },
+    {
+      "id": 1039,
+      "title": "Payback (comic)"
+    },
+    {
+      "id": 1040,
+      "title": "Revenants"
+    },
+    {
+      "id": 1041,
+      "title": "The Way of the Warrior"
+    },
+    {
+      "id": 1043,
+      "title": "Republic 59"
+    },
+    {
+      "id": 1045,
+      "title": "Star Wars: Empire: To the Last Man"
+    },
+    {
+      "id": 1046,
+      "title": "Republic 60"
+    },
+    {
+      "id": 1056,
+      "title": "Star Wars: Republic: Rite of Passage"
+    },
+    {
+      "id": 1057,
+      "title": "Republic 61"
+    },
+    {
+      "id": 1061,
+      "title": "Republic 62"
+    },
+    {
+      "id": 1073,
+      "title": "Republic 63"
+    },
+    {
+      "id": 1075,
+      "title": "Republic 64"
+    },
+    {
+      "id": 1079,
+      "title": "Empire 19"
+    },
+    {
+      "id": 1080,
+      "title": "Collapsing New Empires"
+    },
+    {
+      "id": 1081,
+      "title": "Rather Darkness Visible"
+    },
+    {
+      "id": 1082,
+      "title": "Star Wars: Empire: A Little Piece of Home"
+    },
+    {
+      "id": 1088,
+      "title": "Star Wars: Republic: Show of Force"
+    },
+    {
+      "id": 1090,
+      "title": "George R. Binks (comic)"
+    },
+    {
+      "id": 1091,
+      "title": "Young Lando Calrissian"
+    },
+    {
+      "id": 1093,
+      "title": "Hide in Plain Sight"
+    },
+    {
+      "id": 1095,
+      "title": "Blind Force"
+    },
+    {
+      "id": 1096,
+      "title": "Fierce Currents"
+    },
+    {
+      "id": 1097,
+      "title": "Heavy Metal Jedi"
+    },
+    {
+      "id": 1098,
+      "title": "Empire 22"
+    },
+    {
+      "id": 1099,
+      "title": "Jedi: Yoda"
+    },
+    {
+      "id": 1101,
+      "title": "Republic 67"
+    },
+    {
+      "id": 1102,
+      "title": "Empire 23"
+    },
+    {
+      "id": 1103,
+      "title": "Republic 68"
+    },
+    {
+      "id": 1104,
+      "title": "Star Wars: Empire: Idiot\u0027s Array"
+    },
+    {
+      "id": 1107,
+      "title": "Star Wars: Republic: Dreadnaughts of Rendili"
+    },
+    {
+      "id": 1112,
+      "title": "Reversal of Fortune"
+    },
+    {
+      "id": 1114,
+      "title": "Equals \u0026 Opposites"
+    },
+    {
+      "id": 1115,
+      "title": "Nomad"
+    },
+    {
+      "id": 1116,
+      "title": "Walking the Path That\u0027s Given"
+    },
+    {
+      "id": 1120,
+      "title": "Star Wars: Empire: \u0022General\u0022 Skywalker"
+    },
+    {
+      "id": 1121,
+      "title": "Run Mace Run"
+    },
+    {
+      "id": 1122,
+      "title": "Skywalkers"
+    },
+    {
+      "id": 1126,
+      "title": "Star Wars: Obsession"
+    },
+    {
+      "id": 1131,
+      "title": "Empire 28"
+    },
+    {
+      "id": 1132,
+      "title": "Star Wars: Republic: Trackdown"
+    },
+    {
+      "id": 1133,
+      "title": "Star Wars: Republic: The New Face of War"
+    },
+    {
+      "id": 1136,
+      "title": "Empire 29"
+    },
+    {
+      "id": 1137,
+      "title": "Honor Bound"
+    },
+    {
+      "id": 1138,
+      "title": "Marooned"
+    },
+    {
+      "id": 1142,
+      "title": "A Stranger in Town"
+    },
+    {
+      "id": 1143,
+      "title": "One Battle"
+    },
+    {
+      "id": 1144,
+      "title": "Rogue\u0027s Gallery"
+    },
+    {
+      "id": 1145,
+      "title": "The Package (comic)"
+    },
+    {
+      "id": 1147,
+      "title": "Star Wars: General Grievous"
+    },
+    {
+      "id": 1148,
+      "title": "Star Wars: Episode III \u2014 Revenge of the Sith"
+    },
+    {
+      "id": 1152,
+      "title": "Star Wars: Republic: Siege of Saleucami"
+    },
+    {
+      "id": 1158,
+      "title": "Deep Forest"
+    },
+    {
+      "id": 1159,
+      "title": "Entrenched"
+    },
+    {
+      "id": 1160,
+      "title": "Prototypes"
+    },
+    {
+      "id": 1161,
+      "title": "Sithisis"
+    },
+    {
+      "id": 1162,
+      "title": "The Artist of Naboo"
+    },
+    {
+      "id": 1163,
+      "title": "The Eyes of Revolution"
+    },
+    {
+      "id": 1164,
+      "title": "Empire 30"
+    },
+    {
+      "id": 1165,
+      "title": "Star Wars\u2014Free Comic Book Day 2005 Special"
+    },
+    {
+      "id": 1168,
+      "title": "Lucky (comic)"
+    },
+    {
+      "id": 1169,
+      "title": "Shadows and Light"
+    },
+    {
+      "id": 1170,
+      "title": "The Value of Proper Intelligence to Any Successful Military Campaign is Not to Be Underestimated"
+    },
+    {
+      "id": 1171,
+      "title": "Empire 31"
+    },
+    {
+      "id": 1173,
+      "title": "Empire 32"
+    },
+    {
+      "id": 1177,
+      "title": "Marked"
+    },
+    {
+      "id": 1178,
+      "title": "Unseen, Unheard"
+    },
+    {
+      "id": 1179,
+      "title": "Empire 33"
+    },
+    {
+      "id": 1181,
+      "title": "Empire 34"
+    },
+    {
+      "id": 1185,
+      "title": "Empire 35"
+    },
+    {
+      "id": 1188,
+      "title": "X-Wing: Rogue Leader"
+    },
+    {
+      "id": 1189,
+      "title": "Star Wars: Empire: The Wrong Side of the War"
+    },
+    {
+      "id": 1190,
+      "title": "Another Fine Mess"
+    },
+    {
+      "id": 1191,
+      "title": "Descent (comic)"
+    },
+    {
+      "id": 1192,
+      "title": "Orders (comic)"
+    },
+    {
+      "id": 1193,
+      "title": "The Brink"
+    },
+    {
+      "id": 1194,
+      "title": "Republic 78"
+    },
+    {
+      "id": 1197,
+      "title": "Star Wars: Republic: Into the Unknown"
+    },
+    {
+      "id": 1199,
+      "title": "Evasive Action: Recruitment"
+    },
+    {
+      "id": 1202,
+      "title": "Star Wars: Purge"
+    },
+    {
+      "id": 1203,
+      "title": "Star Wars: Knights of the Old Republic: Days of Fear"
+    },
+    {
+      "id": 1204,
+      "title": "Republic 81"
+    },
+    {
+      "id": 1205,
+      "title": "Republic 82"
+    },
+    {
+      "id": 1207,
+      "title": "Star Wars: Knights of the Old Republic: Commencement"
+    },
+    {
+      "id": 1209,
+      "title": "Rookies: Rendezvous"
+    },
+    {
+      "id": 1210,
+      "title": "Republic 83"
+    },
+    {
+      "id": 1213,
+      "title": "Knights of the Old Republic 0"
+    },
+    {
+      "id": 1214,
+      "title": "Rebellion 0"
+    },
+    {
+      "id": 1217,
+      "title": "Boba Fett: Overkill"
+    },
+    {
+      "id": 1218,
+      "title": "Bailed Out"
+    },
+    {
+      "id": 1219,
+      "title": "Heroes on Both Sides (comic)"
+    },
+    {
+      "id": 1220,
+      "title": "The Order of Outcasts"
+    },
+    {
+      "id": 1221,
+      "title": "What Goes Up..."
+    },
+    {
+      "id": 1222,
+      "title": "Star Wars: Rebellion: My Brother, My Enemy"
+    },
+    {
+      "id": 1224,
+      "title": "Routine Valor"
+    },
+    {
+      "id": 1226,
+      "title": "Star Wars: Legacy: Fight Another Day"
+    },
+    {
+      "id": 1228,
+      "title": "Legacy (2006) 1"
+    },
+    {
+      "id": 1230,
+      "title": "Legacy (2006) 2"
+    },
+    {
+      "id": 1231,
+      "title": "Star Wars: Knights of the Old Republic: Flashpoint"
+    },
+    {
+      "id": 1233,
+      "title": "It Takes a Thief"
+    },
+    {
+      "id": 1234,
+      "title": "Means and Ends"
+    },
+    {
+      "id": 1235,
+      "title": "The Drop (comic)"
+    },
+    {
+      "id": 1236,
+      "title": "To the Vanishing Point"
+    },
+    {
+      "id": 1238,
+      "title": "Legacy (2006) 3"
+    },
+    {
+      "id": 1241,
+      "title": "Legacy (2006) 4"
+    },
+    {
+      "id": 1242,
+      "title": "Rookies: No Turning Back"
+    },
+    {
+      "id": 1244,
+      "title": "Knights of the Old Republic 9"
+    },
+    {
+      "id": 1246,
+      "title": "Legacy (2006) 5"
+    },
+    {
+      "id": 1247,
+      "title": "Evasive Action: End Game"
+    },
+    {
+      "id": 1248,
+      "title": "Evasive Action: Prey"
+    },
+    {
+      "id": 1249,
+      "title": "Star Wars: Dark Times: The Path to Nowhere"
+    },
+    {
+      "id": 1252,
+      "title": "Legacy (2006) 6"
+    },
+    {
+      "id": 1254,
+      "title": "Star Wars: Knights of the Old Republic: Reunion"
+    },
+    {
+      "id": 1255,
+      "title": "Creature Comfort"
+    },
+    {
+      "id": 1256,
+      "title": "Impregnable (comic)"
+    },
+    {
+      "id": 1257,
+      "title": "Spy Girls"
+    },
+    {
+      "id": 1258,
+      "title": "This Precious Shining"
+    },
+    {
+      "id": 1259,
+      "title": "Legacy (2006) 7"
+    },
+    {
+      "id": 1261,
+      "title": "Legacy (2006) 8"
+    },
+    {
+      "id": 1264,
+      "title": "Star Wars: Legacy: Trust Issues"
+    },
+    {
+      "id": 1265,
+      "title": "Star Wars: Knights of the Old Republic: Nights of Anger"
+    },
+    {
+      "id": 1266,
+      "title": "Star Wars: Legacy: Ghosts"
+    },
+    {
+      "id": 1267,
+      "title": "Star Wars: Rebellion: The Ahakista Gambit"
+    },
+    {
+      "id": 1270,
+      "title": "Legacy (2006) 13"
+    },
+    {
+      "id": 1271,
+      "title": "Old Scores"
+    },
+    {
+      "id": 1272,
+      "title": "One of a Kind (comic)"
+    },
+    {
+      "id": 1273,
+      "title": "Pathways"
+    },
+    {
+      "id": 1274,
+      "title": "Versus"
+    },
+    {
+      "id": 1275,
+      "title": "Star Wars: Legacy: Claws of the Dragon"
+    },
+    {
+      "id": 1276,
+      "title": "Star Wars: Knights of the Old Republic: Daze of Hate"
+    },
+    {
+      "id": 1278,
+      "title": "Star Wars Episode I: The Phantom Menace (PhotoComic)"
+    },
+    {
+      "id": 1283,
+      "title": "Appetite for Adventure"
+    },
+    {
+      "id": 1284,
+      "title": "Life Below"
+    },
+    {
+      "id": 1285,
+      "title": "No Way Out"
+    },
+    {
+      "id": 1286,
+      "title": "Salvaged"
+    },
+    {
+      "id": 1287,
+      "title": "Star Wars: Dark Times: Parallels"
+    },
+    {
+      "id": 1288,
+      "title": "Star Wars Episode II: Attack of the Clones (PhotoComic)"
+    },
+    {
+      "id": 1290,
+      "title": "Star Wars: Knights of the Old Republic: Knights of Suffering"
+    },
+    {
+      "id": 1291,
+      "title": "Star Wars Episode III: Revenge of the Sith (PhotoComic)"
+    },
+    {
+      "id": 1293,
+      "title": "Chain of Command (comic)"
+    },
+    {
+      "id": 1294,
+      "title": "Graduation Day"
+    },
+    {
+      "id": 1295,
+      "title": "Thunder Road"
+    },
+    {
+      "id": 1296,
+      "title": "Waiting"
+    },
+    {
+      "id": 1301,
+      "title": "Star Wars: Knights of the Old Republic: Vector"
+    },
+    {
+      "id": 1303,
+      "title": "Star Wars: Rebellion: Small Victories"
+    },
+    {
+      "id": 1305,
+      "title": "Star Wars: Legacy: Indomitable"
+    },
+    {
+      "id": 1307,
+      "title": "Legacy (2006) 22"
+    },
+    {
+      "id": 1309,
+      "title": "Star Wars: Legacy: Loyalties"
+    },
+    {
+      "id": 1312,
+      "title": "Star Wars: Clone Wars (PhotoComic)"
+    },
+    {
+      "id": 1314,
+      "title": "Star Wars: Dark Times: Vector"
+    },
+    {
+      "id": 1315,
+      "title": "Star Wars: Knights of the Old Republic: Exalted"
+    },
+    {
+      "id": 1317,
+      "title": "Star Wars: Legacy: The Hidden Temple"
+    },
+    {
+      "id": 1323,
+      "title": "Knights of the Old Republic 31"
+    },
+    {
+      "id": 1331,
+      "title": "Star Wars: Rebellion: Vector"
+    },
+    {
+      "id": 1334,
+      "title": "Star Wars: The Force Unleashed (comic)"
+    },
+    {
+      "id": 1340,
+      "title": "Legacy (2006) 27"
+    },
+    {
+      "id": 1342,
+      "title": "The Clone Wars 1"
+    },
+    {
+      "id": 1345,
+      "title": "Star Wars: Legacy: Vector"
+    },
+    {
+      "id": 1346,
+      "title": "The Clone Wars: Shipyards of Doom"
+    },
+    {
+      "id": 1353,
+      "title": "The Clone Wars: Prelude"
+    },
+    {
+      "id": 1354,
+      "title": "The Clone Wars: Shakedown"
+    },
+    {
+      "id": 1355,
+      "title": "Mandalorian Memories"
+    },
+    {
+      "id": 1358,
+      "title": "The Clone Wars: Procedure"
+    },
+    {
+      "id": 1360,
+      "title": "Star Wars: River of Chaos"
+    },
+    {
+      "id": 1362,
+      "title": "The Clone Wars: Agenda"
+    },
+    {
+      "id": 1363,
+      "title": "The Clone Wars 2"
+    },
+    {
+      "id": 1366,
+      "title": "The Clone Wars: Mouse Hunt"
+    },
+    {
+      "id": 1370,
+      "title": "The Clone Wars: The Fall of Falleen"
+    },
+    {
+      "id": 1373,
+      "title": "The Clone Wars: Discount"
+    },
+    {
+      "id": 1375,
+      "title": "The Clone Wars: Departure"
+    },
+    {
+      "id": 1381,
+      "title": "The Clone Wars: Transfer"
+    },
+    {
+      "id": 1384,
+      "title": "The Clone Wars 3"
+    },
+    {
+      "id": 1385,
+      "title": "The Clone Wars: The Dreams of General Grievous"
+    },
+    {
+      "id": 1388,
+      "title": "Star Wars: Knights of the Old Republic: Prophet Motive"
+    },
+    {
+      "id": 1390,
+      "title": "The Clone Wars: Crash Course"
+    },
+    {
+      "id": 1392,
+      "title": "Star Wars: Dark Times: Blue Harvest"
+    },
+    {
+      "id": 1395,
+      "title": "The Clone Wars: Bait"
+    },
+    {
+      "id": 1398,
+      "title": "The Clone Wars: Switch"
+    },
+    {
+      "id": 1399,
+      "title": "The Clone Wars: Headgames"
+    },
+    {
+      "id": 1401,
+      "title": "The Clone Wars: Neighbors"
+    },
+    {
+      "id": 1404,
+      "title": "The Clone Wars: Cold Snap"
+    },
+    {
+      "id": 1408,
+      "title": "The Clone Wars: Shadowed"
+    },
+    {
+      "id": 1409,
+      "title": "The Clone Wars 4"
+    },
+    {
+      "id": 1412,
+      "title": "The Clone Wars: The Valley"
+    },
+    {
+      "id": 1413,
+      "title": "Knights of the Old Republic 38"
+    },
+    {
+      "id": 1414,
+      "title": "The Clone Wars: Covetous"
+    },
+    {
+      "id": 1417,
+      "title": "The Clone Wars: Curfew"
+    },
+    {
+      "id": 1418,
+      "title": "The Clone Wars: The Ballad of Cham Syndulla"
+    },
+    {
+      "id": 1420,
+      "title": "Star Wars: Knights of the Old Republic: Dueling Ambitions"
+    },
+    {
+      "id": 1421,
+      "title": "The Clone Wars: Invitation Only"
+    },
+    {
+      "id": 1424,
+      "title": "Star Wars: Legacy: Storms"
+    },
+    {
+      "id": 1427,
+      "title": "The Clone Wars 5"
+    },
+    {
+      "id": 1428,
+      "title": "Star Wars: Knights of the Old Republic: Vindication"
+    },
+    {
+      "id": 1429,
+      "title": "Star Wars Adventures: Han Solo and the Hollow Moon of Khorya"
+    },
+    {
+      "id": 1431,
+      "title": "The Clone Wars: The Gauntlet of Death"
+    },
+    {
+      "id": 1432,
+      "title": "Star Wars: Invasion: Refugees"
+    },
+    {
+      "id": 1433,
+      "title": "Star Wars: Invasion 0"
+    },
+    {
+      "id": 1435,
+      "title": "The Clone Wars 6"
+    },
+    {
+      "id": 1438,
+      "title": "Legacy (2006) 36"
+    },
+    {
+      "id": 1440,
+      "title": "The Clone Wars: The Wind Raiders of Taloraan"
+    },
+    {
+      "id": 1443,
+      "title": "The Clone Wars: Hunting the Hunters (Part I)"
+    },
+    {
+      "id": 1445,
+      "title": "Knights of the Old Republic 42"
+    },
+    {
+      "id": 1446,
+      "title": "The Old Republic, Threat of Peace Act 1: Treaty of Coruscant"
+    },
+    {
+      "id": 1448,
+      "title": "Star Wars: Legacy: Tatooine"
+    },
+    {
+      "id": 1451,
+      "title": "Star Wars: Knights of the Old Republic: The Reaping"
+    },
+    {
+      "id": 1453,
+      "title": "Star Wars: The Clone Wars: In Service of the Republic"
+    },
+    {
+      "id": 1454,
+      "title": "The Clone Wars: Hunting the Hunters (Part II)"
+    },
+    {
+      "id": 1456,
+      "title": "Star Wars Adventures: Princess Leia and the Royal Ransom"
+    },
+    {
+      "id": 1457,
+      "title": "Dark Times: Blue Harvest 0"
+    },
+    {
+      "id": 1465,
+      "title": "The Clone Wars: Hunting the Hunters (Part III)"
+    },
+    {
+      "id": 1466,
+      "title": "Star Wars: Knights of the Old Republic: Destroyer"
+    },
+    {
+      "id": 1467,
+      "title": "The Clone Wars: Act on Instinct"
+    },
+    {
+      "id": 1474,
+      "title": "The Old Republic, Threat of Peace Act 2: New Galactic Order"
+    },
+    {
+      "id": 1477,
+      "title": "Legacy (2006) 41"
+    },
+    {
+      "id": 1478,
+      "title": "Star Wars: Knights of the Old Republic: Demon"
+    },
+    {
+      "id": 1481,
+      "title": "The Old Republic, Threat of Peace Act 3: Uncertain Surrender"
+    },
+    {
+      "id": 1482,
+      "title": "Star Wars: Purge: Seconds to Die"
+    },
+    {
+      "id": 1483,
+      "title": "Star Wars: The Clone Wars: Hero of the Confederacy"
+    },
+    {
+      "id": 1487,
+      "title": "Legacy (2006) 42"
+    },
+    {
+      "id": 1491,
+      "title": "Star Wars: Legacy: Monster"
+    },
+    {
+      "id": 1492,
+      "title": "The Clone Wars: The Colossus of Destiny"
+    },
+    {
+      "id": 1503,
+      "title": "Star Wars Adventures: Luke Skywalker and the Treasure of the Dragonsnakes"
+    },
+    {
+      "id": 1512,
+      "title": "Star Wars: Purge: The Hidden Blade"
+    },
+    {
+      "id": 1517,
+      "title": "Star Wars: The Old Republic, Blood of the Empire"
+    },
+    {
+      "id": 1519,
+      "title": "Legacy (2006) 47"
+    },
+    {
+      "id": 1536,
+      "title": "Star Wars: Invasion: Rescues"
+    },
+    {
+      "id": 1537,
+      "title": "Star Wars: Legacy: Extremes"
+    },
+    {
+      "id": 1544,
+      "title": "Star Wars Adventures: The Will of Darth Vader"
+    },
+    {
+      "id": 1547,
+      "title": "Blood Ties: A Tale of Jango and Boba Fett 1"
+    },
+    {
+      "id": 1548,
+      "title": "The Clone Wars: The Valsedian Operation"
+    },
+    {
+      "id": 1553,
+      "title": "Blood Ties: A Tale of Jango and Boba Fett 2"
+    },
+    {
+      "id": 1554,
+      "title": "Star Wars: The Force Unleashed II (comic)"
+    },
+    {
+      "id": 1556,
+      "title": "Paradise Lost"
+    },
+    {
+      "id": 1557,
+      "title": "The Droid Deception"
+    },
+    {
+      "id": 1559,
+      "title": "The Runaway Ride"
+    },
+    {
+      "id": 1562,
+      "title": "Knight Errant 0"
+    },
+    {
+      "id": 1563,
+      "title": "Star Wars: Knight Errant: Aflame"
+    },
+    {
+      "id": 1570,
+      "title": "Blood Ties: A Tale of Jango and Boba Fett 3"
+    },
+    {
+      "id": 1575,
+      "title": "Blood Ties: A Tale of Jango and Boba Fett 4"
+    },
+    {
+      "id": 1577,
+      "title": "The Clone Wars: Deadly Hands of Shon-Ju"
+    },
+    {
+      "id": 1579,
+      "title": "In Triplicate"
+    },
+    {
+      "id": 1581,
+      "title": "Star Wars: Legacy\u2014War"
+    },
+    {
+      "id": 1584,
+      "title": "Star Wars: Dark Times\u2014Out of the Wilderness"
+    },
+    {
+      "id": 1590,
+      "title": "Star Wars: Darth Vader and the Lost Command"
+    },
+    {
+      "id": 1592,
+      "title": "Suited"
+    },
+    {
+      "id": 1599,
+      "title": "Repel All Boarders!"
+    },
+    {
+      "id": 1605,
+      "title": "Dug Out"
+    },
+    {
+      "id": 1609,
+      "title": "In the Air"
+    },
+    {
+      "id": 1611,
+      "title": "Outgunned"
+    },
+    {
+      "id": 1612,
+      "title": "Star Wars Adventures: Boba Fett and the Ship of Fear"
+    },
+    {
+      "id": 1613,
+      "title": "Star Wars: Jedi\u2014The Dark Side"
+    },
+    {
+      "id": 1616,
+      "title": "Star Wars: The Old Republic\u2014The Lost Suns"
+    },
+    {
+      "id": 1617,
+      "title": "Leisure"
+    },
+    {
+      "id": 1618,
+      "title": "Star Wars: Invasion: Revelations"
+    },
+    {
+      "id": 1621,
+      "title": "The Clone Wars: The Starcrusher Trap"
+    },
+    {
+      "id": 1623,
+      "title": "Runaway Starfighter"
+    },
+    {
+      "id": 1625,
+      "title": "Star Wars: Knight Errant: Deluge"
+    },
+    {
+      "id": 1626,
+      "title": "Star Wars Adventures: Chewbacca and the Slavers of the Shadowlands"
+    },
+    {
+      "id": 1634,
+      "title": "The Only Good Clanker"
+    },
+    {
+      "id": 1635,
+      "title": "The Clone Wars: Strange Allies"
+    },
+    {
+      "id": 1638,
+      "title": "Star Wars: Crimson Empire III\u2014Empire Lost"
+    },
+    {
+      "id": 1650,
+      "title": "Star Wars: Agent of the Empire\u2014Iron Eclipse"
+    },
+    {
+      "id": 1652,
+      "title": "Blind Jedi\u0027s Bluff"
+    },
+    {
+      "id": 1658,
+      "title": "Star Wars: Knights of the Old Republic: War"
+    },
+    {
+      "id": 1660,
+      "title": "Star Wars: Darth Maul\u2014Death Sentence"
+    },
+    {
+      "id": 1665,
+      "title": "Out"
+    },
+    {
+      "id": 1671,
+      "title": "The Clone Wars: The Enemy Within"
+    },
+    {
+      "id": 1672,
+      "title": "Deadly Droid"
+    },
+    {
+      "id": 1677,
+      "title": "The Fear Architects"
+    },
+    {
+      "id": 1679,
+      "title": "Star Wars: Blood Ties: Boba Fett is Dead"
+    },
+    {
+      "id": 1682,
+      "title": "A Small Scrappy War!"
+    },
+    {
+      "id": 1683,
+      "title": "Star Wars: Lost Tribe of the Sith\u2014Spiral"
+    },
+    {
+      "id": 1684,
+      "title": "Star Wars: The Art of the Bad Deal"
+    },
+    {
+      "id": 1685,
+      "title": "Star Wars: Darth Vader and the Ghost Prison"
+    },
+    {
+      "id": 1686,
+      "title": "Frozen Out!"
+    },
+    {
+      "id": 1687,
+      "title": "Star Wars: Knight Errant: Escape"
+    },
+    {
+      "id": 1688,
+      "title": "Bacta Raid"
+    },
+    {
+      "id": 1691,
+      "title": "Ahsoka\u0027s Ark"
+    },
+    {
+      "id": 1693,
+      "title": "Incident on Kashyyyk"
+    },
+    {
+      "id": 1694,
+      "title": "The Clone Wars: The Sith Hunters"
+    },
+    {
+      "id": 1700,
+      "title": "Star Wars: Agent of the Empire\u2014Hard Targets"
+    },
+    {
+      "id": 1701,
+      "title": "Dead Shadows"
+    },
+    {
+      "id": 1707,
+      "title": "Hypermatters"
+    },
+    {
+      "id": 1708,
+      "title": "Lockdown (comic)"
+    },
+    {
+      "id": 1713,
+      "title": "Star Wars: Purge: The Tyrant\u0027s Fist"
+    },
+    {
+      "id": 1716,
+      "title": "Star Wars: Dawn of the Jedi: Force Storm"
+    },
+    {
+      "id": 1722,
+      "title": "The Collector"
+    },
+    {
+      "id": 1727,
+      "title": "Star Wars: Dark Times\u2014Fire Carrier"
+    },
+    {
+      "id": 1728,
+      "title": "Downhill"
+    },
+    {
+      "id": 1734,
+      "title": "Mask of Iron"
+    },
+    {
+      "id": 1735,
+      "title": "The Clone Wars: Defenders of the Lost Temple"
+    },
+    {
+      "id": 1736,
+      "title": "Star Wars: Legacy: Prisoner of the Floating World"
+    },
+    {
+      "id": 1737,
+      "title": "Power Down"
+    },
+    {
+      "id": 1739,
+      "title": "Star Wars: Darth Vader and the Ninth Assassin"
+    },
+    {
+      "id": 1742,
+      "title": "Bane vs ...Bane?"
+    },
+    {
+      "id": 1743,
+      "title": "Star Wars: The Assassination of Darth Vader"
+    },
+    {
+      "id": 1747,
+      "title": "The Clone Wars: The Smuggler\u0027s Code"
+    },
+    {
+      "id": 1748,
+      "title": "Colony Crisis"
+    },
+    {
+      "id": 1750,
+      "title": "Star Wars: Dark Times\u2014A Spark Remains"
+    },
+    {
+      "id": 1752,
+      "title": "Star Wars: Dawn of the Jedi: The Prisoner of Bogan"
+    },
+    {
+      "id": 1753,
+      "title": "Seeds"
+    },
+    {
+      "id": 1755,
+      "title": "Star Wars: Legacy: Outcasts of the Broken Ring"
+    },
+    {
+      "id": 1758,
+      "title": "Star Wars Volume 1: In the Shadow of Yavin"
+    },
+    {
+      "id": 1759,
+      "title": "Deadly Allies"
+    },
+    {
+      "id": 1760,
+      "title": "Star Wars: Ewoks\u2014Shadows of Endor"
+    },
+    {
+      "id": 1762,
+      "title": "Update"
+    },
+    {
+      "id": 1763,
+      "title": "Star Wars: Dawn of the Jedi: Force War"
+    },
+    {
+      "id": 1765,
+      "title": "Hotshot (comic)"
+    },
+    {
+      "id": 1766,
+      "title": "Star Wars: Darth Vader and the Cry of Shadows"
+    },
+    {
+      "id": 1767,
+      "title": "Star Wars (2013) 13"
+    },
+    {
+      "id": 1785,
+      "title": "Star Wars: Rebel Heist"
+    },
+    {
+      "id": 1786,
+      "title": "Star Wars Volume 2: From the Ruins of Alderaan"
+    },
+    {
+      "id": 1789,
+      "title": "Darth Maul\u2014Son of Dathomir"
+    },
+    {
+      "id": 1805,
+      "title": "Star Wars: Legacy Volume II Book 3\u2014Wanted: Ania Solo"
+    },
+    {
+      "id": 1830,
+      "title": "Star Wars Volume 3: Rebel Girl"
+    },
+    {
+      "id": 1835,
+      "title": "Star Wars: Legacy Volume II Book 4\u2014Empire of One"
+    },
+    {
+      "id": 1836,
+      "title": "Star Wars Volume 4: A Shattered Hope"
+    },
+    {
+      "id": 2769,
+      "title": "Star Wars (1977) 108"
+    }
+  ]
+}

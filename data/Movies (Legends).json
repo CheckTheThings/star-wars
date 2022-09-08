@@ -1,0 +1,66 @@
+{
+  "id": 7,
+  "title": "Movies (Legends)",
+  "items": [
+    {
+      "id": 5,
+      "title": "Star Wars: Episode IV A New Hope"
+    },
+    {
+      "id": 25,
+      "title": "The Star Wars Holiday Special"
+    },
+    {
+      "id": 61,
+      "title": "Star Wars: Episode V The Empire Strikes Back"
+    },
+    {
+      "id": 125,
+      "title": "Star Wars: Episode VI Return of the Jedi"
+    },
+    {
+      "id": 158,
+      "title": "Caravan of Courage: An Ewok Adventure"
+    },
+    {
+      "id": 204,
+      "title": "Ewoks: The Battle for Endor"
+    },
+    {
+      "id": 224,
+      "title": "The Great Heep"
+    },
+    {
+      "id": 557,
+      "title": "The Haunted Village (film)"
+    },
+    {
+      "id": 558,
+      "title": "The Pirates and the Prince"
+    },
+    {
+      "id": 700,
+      "title": "Star Wars: Episode I The Phantom Menace"
+    },
+    {
+      "id": 907,
+      "title": "Star Wars: Episode II Attack of the Clones"
+    },
+    {
+      "id": 1123,
+      "title": "Tales from the Endor Woods"
+    },
+    {
+      "id": 1124,
+      "title": "Treasure of the Hidden Planet"
+    },
+    {
+      "id": 1172,
+      "title": "Star Wars: Episode III Revenge of the Sith"
+    },
+    {
+      "id": 1333,
+      "title": "Star Wars: The Clone Wars (film)"
+    }
+  ]
+}

@@ -1,0 +1,642 @@
+{
+  "id": 8,
+  "title": "Novels (Legends)",
+  "items": [
+    {
+      "id": 1,
+      "title": "Star Wars Episode IV: A New Hope (novel)"
+    },
+    {
+      "id": 15,
+      "title": "Splinter of the Mind\u0027s Eye"
+    },
+    {
+      "id": 32,
+      "title": "Han Solo at Stars\u0027 End"
+    },
+    {
+      "id": 43,
+      "title": "Han Solo\u0027s Revenge"
+    },
+    {
+      "id": 57,
+      "title": "Star Wars Episode V: The Empire Strikes Back (novel)"
+    },
+    {
+      "id": 67,
+      "title": "Han Solo and the Lost Legacy"
+    },
+    {
+      "id": 123,
+      "title": "Star Wars Episode VI: Return of the Jedi (novel)"
+    },
+    {
+      "id": 129,
+      "title": "Lando Calrissian and the Mindharp of Sharu"
+    },
+    {
+      "id": 132,
+      "title": "Lando Calrissian and the Flamewind of Oseon"
+    },
+    {
+      "id": 135,
+      "title": "Lando Calrissian and the Starcave of ThonBoka"
+    },
+    {
+      "id": 290,
+      "title": "Heir to the Empire"
+    },
+    {
+      "id": 293,
+      "title": "Dark Force Rising"
+    },
+    {
+      "id": 309,
+      "title": "The Last Command"
+    },
+    {
+      "id": 319,
+      "title": "The Truce at Bakura"
+    },
+    {
+      "id": 329,
+      "title": "Jedi Search"
+    },
+    {
+      "id": 340,
+      "title": "The Courtship of Princess Leia"
+    },
+    {
+      "id": 342,
+      "title": "Dark Apprentice (novel)"
+    },
+    {
+      "id": 354,
+      "title": "Champions of the Force"
+    },
+    {
+      "id": 366,
+      "title": "The Crystal Star"
+    },
+    {
+      "id": 375,
+      "title": "Ambush at Corellia"
+    },
+    {
+      "id": 381,
+      "title": "Children of the Jedi (novel)"
+    },
+    {
+      "id": 391,
+      "title": "Assault at Selonia"
+    },
+    {
+      "id": 405,
+      "title": "Tales from the Mos Eisley Cantina"
+    },
+    {
+      "id": 426,
+      "title": "Showdown at Centerpoint"
+    },
+    {
+      "id": 430,
+      "title": "Darksaber (novel)"
+    },
+    {
+      "id": 436,
+      "title": "Tales from Jabba\u0027s Palace"
+    },
+    {
+      "id": 462,
+      "title": "X-Wing: Rogue Squadron"
+    },
+    {
+      "id": 471,
+      "title": "Before the Storm"
+    },
+    {
+      "id": 475,
+      "title": "Shadows of the Empire (novel)"
+    },
+    {
+      "id": 483,
+      "title": "X-Wing: Wedge\u0027s Gamble"
+    },
+    {
+      "id": 518,
+      "title": "Shield of Lies"
+    },
+    {
+      "id": 530,
+      "title": "X-Wing: The Krytos Trap"
+    },
+    {
+      "id": 537,
+      "title": "Tales of the Bounty Hunters"
+    },
+    {
+      "id": 543,
+      "title": "The New Rebellion"
+    },
+    {
+      "id": 544,
+      "title": "Tyrant\u0027s Test"
+    },
+    {
+      "id": 560,
+      "title": "X-Wing: The Bacta War"
+    },
+    {
+      "id": 561,
+      "title": "Dark Forces: Soldier for the Empire"
+    },
+    {
+      "id": 570,
+      "title": "Planet of Twilight"
+    },
+    {
+      "id": 577,
+      "title": "The Paradise Snare"
+    },
+    {
+      "id": 600,
+      "title": "The Hutt Gambit"
+    },
+    {
+      "id": 617,
+      "title": "Specter of the Past"
+    },
+    {
+      "id": 618,
+      "title": "Tales from the Empire"
+    },
+    {
+      "id": 632,
+      "title": "X-Wing: Wraith Squadron"
+    },
+    {
+      "id": 636,
+      "title": "Rebel Dawn"
+    },
+    {
+      "id": 637,
+      "title": "Dark Forces: Rebel Agent"
+    },
+    {
+      "id": 641,
+      "title": "I, Jedi"
+    },
+    {
+      "id": 644,
+      "title": "The Mandalorian Armor"
+    },
+    {
+      "id": 650,
+      "title": "X-Wing: Iron Fist"
+    },
+    {
+      "id": 658,
+      "title": "Vision of the Future"
+    },
+    {
+      "id": 663,
+      "title": "Slave Ship"
+    },
+    {
+      "id": 665,
+      "title": "Dark Forces: Jedi Knight"
+    },
+    {
+      "id": 681,
+      "title": "X-Wing: Solo Command"
+    },
+    {
+      "id": 687,
+      "title": "X-Wing: Isard\u0027s Revenge"
+    },
+    {
+      "id": 688,
+      "title": "Star Wars: Episode I The Phantom Menace (novelization)"
+    },
+    {
+      "id": 706,
+      "title": "Hard Merchandise"
+    },
+    {
+      "id": 711,
+      "title": "X-Wing: Starfighters of Adumar"
+    },
+    {
+      "id": 724,
+      "title": "The New Jedi Order: Vector Prime"
+    },
+    {
+      "id": 739,
+      "title": "Tales from the New Republic"
+    },
+    {
+      "id": 751,
+      "title": "The New Jedi Order: Dark Tide I: Onslaught"
+    },
+    {
+      "id": 768,
+      "title": "Rogue Planet"
+    },
+    {
+      "id": 773,
+      "title": "The New Jedi Order: Dark Tide II: Ruin"
+    },
+    {
+      "id": 785,
+      "title": "The New Jedi Order: Agents of Chaos I: Hero\u0027s Trial"
+    },
+    {
+      "id": 799,
+      "title": "The New Jedi Order: Agents of Chaos II: Jedi Eclipse"
+    },
+    {
+      "id": 801,
+      "title": "The New Jedi Order: Balance Point"
+    },
+    {
+      "id": 816,
+      "title": "Darth Maul: Shadow Hunter"
+    },
+    {
+      "id": 827,
+      "title": "The New Jedi Order: Edge of Victory I: Conquest"
+    },
+    {
+      "id": 829,
+      "title": "Cloak of Deception"
+    },
+    {
+      "id": 842,
+      "title": "The New Jedi Order: Edge of Victory II: Rebirth"
+    },
+    {
+      "id": 850,
+      "title": "The New Jedi Order: Star by Star"
+    },
+    {
+      "id": 869,
+      "title": "The Approaching Storm"
+    },
+    {
+      "id": 870,
+      "title": "The New Jedi Order: Dark Journey"
+    },
+    {
+      "id": 885,
+      "title": "The New Jedi Order: Enemy Lines I: Rebel Dream"
+    },
+    {
+      "id": 894,
+      "title": "Star Wars: Episode II Attack of the Clones (novelization)"
+    },
+    {
+      "id": 908,
+      "title": "The New Jedi Order: Enemy Lines II: Rebel Stand"
+    },
+    {
+      "id": 915,
+      "title": "The New Jedi Order: Traitor"
+    },
+    {
+      "id": 927,
+      "title": "The New Jedi Order: Destiny\u0027s Way"
+    },
+    {
+      "id": 951,
+      "title": "The New Jedi Order: Force Heretic I: Remnant"
+    },
+    {
+      "id": 961,
+      "title": "Tatooine Ghost"
+    },
+    {
+      "id": 971,
+      "title": "The New Jedi Order: Force Heretic II: Refugee"
+    },
+    {
+      "id": 984,
+      "title": "Shatterpoint (novel)"
+    },
+    {
+      "id": 990,
+      "title": "The New Jedi Order: Force Heretic III: Reunion"
+    },
+    {
+      "id": 1008,
+      "title": "The New Jedi Order: The Final Prophecy"
+    },
+    {
+      "id": 1019,
+      "title": "The New Jedi Order: The Unifying Force"
+    },
+    {
+      "id": 1042,
+      "title": "Star Wars Galaxies: The Ruins of Dantooine"
+    },
+    {
+      "id": 1055,
+      "title": "Survivor\u0027s Quest"
+    },
+    {
+      "id": 1087,
+      "title": "The Cestus Deception"
+    },
+    {
+      "id": 1089,
+      "title": "MedStar I: Battle Surgeons"
+    },
+    {
+      "id": 1106,
+      "title": "MedStar II: Jedi Healer"
+    },
+    {
+      "id": 1117,
+      "title": "Jedi Trial"
+    },
+    {
+      "id": 1118,
+      "title": "Republic Commando: Hard Contact"
+    },
+    {
+      "id": 1125,
+      "title": "Yoda: Dark Rendezvous"
+    },
+    {
+      "id": 1135,
+      "title": "Labyrinth of Evil"
+    },
+    {
+      "id": 1156,
+      "title": "Star Wars: Episode III Revenge of the Sith (novelization)"
+    },
+    {
+      "id": 1180,
+      "title": "Dark Nest I: The Joiner King"
+    },
+    {
+      "id": 1187,
+      "title": "Dark Nest II: The Unseen Queen"
+    },
+    {
+      "id": 1198,
+      "title": "Dark Lord: The Rise of Darth Vader"
+    },
+    {
+      "id": 1201,
+      "title": "Dark Nest III: The Swarm War"
+    },
+    {
+      "id": 1208,
+      "title": "Outbound Flight (novel)"
+    },
+    {
+      "id": 1212,
+      "title": "Republic Commando: Triple Zero"
+    },
+    {
+      "id": 1225,
+      "title": "Legacy of the Force: Betrayal"
+    },
+    {
+      "id": 1237,
+      "title": "Legacy of the Force: Bloodlines"
+    },
+    {
+      "id": 1239,
+      "title": "Darth Bane: Path of Destruction"
+    },
+    {
+      "id": 1251,
+      "title": "Legacy of the Force: Tempest"
+    },
+    {
+      "id": 1260,
+      "title": "Allegiance (novel)"
+    },
+    {
+      "id": 1262,
+      "title": "Legacy of the Force: Exile"
+    },
+    {
+      "id": 1268,
+      "title": "Legacy of the Force: Sacrifice"
+    },
+    {
+      "id": 1277,
+      "title": "Legacy of the Force: Inferno"
+    },
+    {
+      "id": 1282,
+      "title": "Death Star (novel)"
+    },
+    {
+      "id": 1289,
+      "title": "Republic Commando: True Colors"
+    },
+    {
+      "id": 1292,
+      "title": "Legacy of the Force: Fury"
+    },
+    {
+      "id": 1297,
+      "title": "Darth Bane: Rule of Two"
+    },
+    {
+      "id": 1304,
+      "title": "Legacy of the Force: Revelation"
+    },
+    {
+      "id": 1311,
+      "title": "Legacy of the Force: Invincible"
+    },
+    {
+      "id": 1318,
+      "title": "Coruscant Nights I: Jedi Twilight"
+    },
+    {
+      "id": 1324,
+      "title": "Star Wars: The Clone Wars (novelization)"
+    },
+    {
+      "id": 1337,
+      "title": "The Force Unleashed (novel)"
+    },
+    {
+      "id": 1339,
+      "title": "Coruscant Nights II: Street of Shadows"
+    },
+    {
+      "id": 1343,
+      "title": "Order 66: A Republic Commando Novel"
+    },
+    {
+      "id": 1365,
+      "title": "Millennium Falcon (novel)"
+    },
+    {
+      "id": 1383,
+      "title": "The Clone Wars: Wild Space"
+    },
+    {
+      "id": 1389,
+      "title": "Luke Skywalker and the Shadows of Mindor"
+    },
+    {
+      "id": 1403,
+      "title": "Coruscant Nights III: Patterns of Force"
+    },
+    {
+      "id": 1423,
+      "title": "Fate of the Jedi: Outcast"
+    },
+    {
+      "id": 1437,
+      "title": "The Clone Wars: No Prisoners"
+    },
+    {
+      "id": 1447,
+      "title": "Fate of the Jedi: Omen"
+    },
+    {
+      "id": 1458,
+      "title": "Fate of the Jedi: Abyss"
+    },
+    {
+      "id": 1472,
+      "title": "Death Troopers"
+    },
+    {
+      "id": 1476,
+      "title": "Imperial Commando: 501st"
+    },
+    {
+      "id": 1489,
+      "title": "Darth Bane: Dynasty of Evil"
+    },
+    {
+      "id": 1501,
+      "title": "Crosscurrent"
+    },
+    {
+      "id": 1507,
+      "title": "Clone Wars Gambit: Stealth"
+    },
+    {
+      "id": 1535,
+      "title": "Fate of the Jedi: Allies"
+    },
+    {
+      "id": 1542,
+      "title": "Clone Wars Gambit: Siege"
+    },
+    {
+      "id": 1543,
+      "title": "The Old Republic: Fatal Alliance"
+    },
+    {
+      "id": 1558,
+      "title": "The Force Unleashed II (novel)"
+    },
+    {
+      "id": 1576,
+      "title": "Fate of the Jedi: Vortex"
+    },
+    {
+      "id": 1583,
+      "title": "Red Harvest (novel)"
+    },
+    {
+      "id": 1589,
+      "title": "Knight Errant (novel)"
+    },
+    {
+      "id": 1598,
+      "title": "Fate of the Jedi: Backlash"
+    },
+    {
+      "id": 1604,
+      "title": "The Old Republic: Deceived"
+    },
+    {
+      "id": 1614,
+      "title": "Fate of the Jedi: Conviction"
+    },
+    {
+      "id": 1620,
+      "title": "Choices of One"
+    },
+    {
+      "id": 1624,
+      "title": "Fate of the Jedi: Ascension"
+    },
+    {
+      "id": 1637,
+      "title": "Riptide (novel)"
+    },
+    {
+      "id": 1643,
+      "title": "The Old Republic: Revan"
+    },
+    {
+      "id": 1646,
+      "title": "Shadow Games"
+    },
+    {
+      "id": 1657,
+      "title": "Darth Plagueis (novel)"
+    },
+    {
+      "id": 1674,
+      "title": "Fate of the Jedi: Apocalypse"
+    },
+    {
+      "id": 1678,
+      "title": "Scourge (novel)"
+    },
+    {
+      "id": 1692,
+      "title": "X-Wing: Mercy Kill"
+    },
+    {
+      "id": 1706,
+      "title": "The Old Republic: Annihilation"
+    },
+    {
+      "id": 1718,
+      "title": "Scoundrels"
+    },
+    {
+      "id": 1732,
+      "title": "The Last Jedi (novel)"
+    },
+    {
+      "id": 1744,
+      "title": "Dawn of the Jedi: Into the Void"
+    },
+    {
+      "id": 1749,
+      "title": "Crucible (novel)"
+    },
+    {
+      "id": 1754,
+      "title": "Kenobi (novel)"
+    },
+    {
+      "id": 1756,
+      "title": "Razor\u0027s Edge"
+    },
+    {
+      "id": 1769,
+      "title": "Maul: Lockdown"
+    },
+    {
+      "id": 1770,
+      "title": "Honor Among Thieves"
+    }
+  ]
+}
