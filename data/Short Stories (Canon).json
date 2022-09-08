@@ -1,0 +1,742 @@
+{
+  "id": 5,
+  "title": "Short Stories (Canon)",
+  "items": [
+    {
+      "id": 1787,
+      "title": "Blade Squadron (short story)"
+    },
+    {
+      "id": 1794,
+      "title": "One Thousand Levels Down"
+    },
+    {
+      "id": 1811,
+      "title": "Entanglement (Star Wars Rebels Annual 2015)"
+    },
+    {
+      "id": 1812,
+      "title": "Her Smile"
+    },
+    {
+      "id": 1814,
+      "title": "The Machine in the Ghost (Star Wars Rebels Annual 2015)"
+    },
+    {
+      "id": 1849,
+      "title": "The End of History"
+    },
+    {
+      "id": 1877,
+      "title": "Last Call at the Zero Angle"
+    },
+    {
+      "id": 1890,
+      "title": "Orientation"
+    },
+    {
+      "id": 1906,
+      "title": "Rebel Bluff"
+    },
+    {
+      "id": 1919,
+      "title": "Kindred Spirits"
+    },
+    {
+      "id": 1929,
+      "title": "The Escape (short story)"
+    },
+    {
+      "id": 1930,
+      "title": "The Heist"
+    },
+    {
+      "id": 1931,
+      "title": "The Newcomer"
+    },
+    {
+      "id": 1932,
+      "title": "The Rescue"
+    },
+    {
+      "id": 1933,
+      "title": "The Trap (short story)"
+    },
+    {
+      "id": 1966,
+      "title": "Blade Squadron: Zero Hour"
+    },
+    {
+      "id": 1981,
+      "title": "Bottleneck (short story)"
+    },
+    {
+      "id": 1982,
+      "title": "Mercy Mission (short story)"
+    },
+    {
+      "id": 1984,
+      "title": "The Levers of Power"
+    },
+    {
+      "id": 2008,
+      "title": "Inbrief"
+    },
+    {
+      "id": 2018,
+      "title": "The Perfect Weapon"
+    },
+    {
+      "id": 2022,
+      "title": "All Creatures Great and Small"
+    },
+    {
+      "id": 2023,
+      "title": "High Noon on Jakku"
+    },
+    {
+      "id": 2024,
+      "title": "The Crimson Corsair and the Lost Treasure of Count Dooku"
+    },
+    {
+      "id": 2025,
+      "title": "The Face of Evil"
+    },
+    {
+      "id": 2052,
+      "title": "Bait"
+    },
+    {
+      "id": 2092,
+      "title": "A Recipe for Death"
+    },
+    {
+      "id": 2095,
+      "title": "True Love"
+    },
+    {
+      "id": 2104,
+      "title": "Scorched"
+    },
+    {
+      "id": 2114,
+      "title": "TK-462 (short story)"
+    },
+    {
+      "id": 2137,
+      "title": "Blade Squadron: Kuat"
+    },
+    {
+      "id": 2159,
+      "title": "Turning Point (Jason Hough)"
+    },
+    {
+      "id": 2185,
+      "title": "The Voice of the Empire"
+    },
+    {
+      "id": 2228,
+      "title": "Blade Squadron: Jakku"
+    },
+    {
+      "id": 2338,
+      "title": "Added Muscle"
+    },
+    {
+      "id": 2339,
+      "title": "An Incident Report"
+    },
+    {
+      "id": 2340,
+      "title": "Beru Whitesun Lars (short story)"
+    },
+    {
+      "id": 2341,
+      "title": "Born in the Storm"
+    },
+    {
+      "id": 2342,
+      "title": "Bump"
+    },
+    {
+      "id": 2343,
+      "title": "By Whatever Sun"
+    },
+    {
+      "id": 2344,
+      "title": "Change of Heart"
+    },
+    {
+      "id": 2345,
+      "title": "Contingency Plan"
+    },
+    {
+      "id": 2346,
+      "title": "Desert Son"
+    },
+    {
+      "id": 2347,
+      "title": "Duty Roster"
+    },
+    {
+      "id": 2348,
+      "title": "Eclipse (short story)"
+    },
+    {
+      "id": 2349,
+      "title": "End of Watch"
+    },
+    {
+      "id": 2351,
+      "title": "Fully Operational (short story)"
+    },
+    {
+      "id": 2352,
+      "title": "Grounded"
+    },
+    {
+      "id": 2354,
+      "title": "Laina (short story)"
+    },
+    {
+      "id": 2355,
+      "title": "Master and Apprentice (short story)"
+    },
+    {
+      "id": 2356,
+      "title": "Not for Nothing"
+    },
+    {
+      "id": 2357,
+      "title": "Of MSE-6 and Men"
+    },
+    {
+      "id": 2358,
+      "title": "Palpatine (short story)"
+    },
+    {
+      "id": 2359,
+      "title": "Raymus"
+    },
+    {
+      "id": 2360,
+      "title": "Reirin (short story)"
+    },
+    {
+      "id": 2361,
+      "title": "Rites"
+    },
+    {
+      "id": 2362,
+      "title": "Sparks (short story)"
+    },
+    {
+      "id": 2364,
+      "title": "Stories in the Sand"
+    },
+    {
+      "id": 2365,
+      "title": "The Angle"
+    },
+    {
+      "id": 2366,
+      "title": "The Baptist"
+    },
+    {
+      "id": 2367,
+      "title": "The Bucket"
+    },
+    {
+      "id": 2368,
+      "title": "The Kloo Horn Cantina Caper"
+    },
+    {
+      "id": 2369,
+      "title": "The Luckless Rodian"
+    },
+    {
+      "id": 2370,
+      "title": "The Red One"
+    },
+    {
+      "id": 2371,
+      "title": "The Secrets of Long Snoot"
+    },
+    {
+      "id": 2372,
+      "title": "The Sith of Datawork"
+    },
+    {
+      "id": 2373,
+      "title": "The Trigger"
+    },
+    {
+      "id": 2374,
+      "title": "There is Another"
+    },
+    {
+      "id": 2375,
+      "title": "Time of Death"
+    },
+    {
+      "id": 2376,
+      "title": "Verge of Greatness"
+    },
+    {
+      "id": 2377,
+      "title": "We Don\u0027t Serve Their Kind Here"
+    },
+    {
+      "id": 2378,
+      "title": "Whills (short story)"
+    },
+    {
+      "id": 2379,
+      "title": "You Owe Me a Ride"
+    },
+    {
+      "id": 2416,
+      "title": "Hear Nothing, See Nothing, Say Nothing"
+    },
+    {
+      "id": 2417,
+      "title": "Rules of the Game"
+    },
+    {
+      "id": 2418,
+      "title": "The Ride"
+    },
+    {
+      "id": 2419,
+      "title": "The Wine in Dreams"
+    },
+    {
+      "id": 2505,
+      "title": "Chewbacca: A Wookiee Story"
+    },
+    {
+      "id": 2814,
+      "title": "Chasing Ghosts"
+    },
+    {
+      "id": 2815,
+      "title": "Gaze of Stone"
+    },
+    {
+      "id": 2816,
+      "title": "The Black Spire"
+    },
+    {
+      "id": 2817,
+      "title": "The Dark Wraith"
+    },
+    {
+      "id": 2818,
+      "title": "The Droid with a Heart"
+    },
+    {
+      "id": 2819,
+      "title": "The Knight \u0026 the Dragon"
+    },
+    {
+      "id": 2820,
+      "title": "The Wanderer (short story)"
+    },
+    {
+      "id": 2821,
+      "title": "The Witch \u0026 the Wookiee"
+    },
+    {
+      "id": 2822,
+      "title": "Vengeful Waves"
+    },
+    {
+      "id": 2978,
+      "title": "Black Spire: Return to a Shattered Planet"
+    },
+    {
+      "id": 2983,
+      "title": "A Life Immortal"
+    },
+    {
+      "id": 2984,
+      "title": "Blood Moon"
+    },
+    {
+      "id": 2985,
+      "title": "Buyer Beware"
+    },
+    {
+      "id": 2986,
+      "title": "The Dark Mirror"
+    },
+    {
+      "id": 2987,
+      "title": "The Gilded Cage"
+    },
+    {
+      "id": 2988,
+      "title": "The Orphanage"
+    },
+    {
+      "id": 2989,
+      "title": "The Predecessor"
+    },
+    {
+      "id": 2996,
+      "title": "Almost a Jedi"
+    },
+    {
+      "id": 2997,
+      "title": "Bane\u0027s Story"
+    },
+    {
+      "id": 2998,
+      "title": "Bug (short story)"
+    },
+    {
+      "id": 2999,
+      "title": "Dark Vengeance: The True Story of Darth Maul and His Revenge Against the Jedi Known as Obi-Wan Kenobi"
+    },
+    {
+      "id": 3000,
+      "title": "Dooku Captured (short story)"
+    },
+    {
+      "id": 3001,
+      "title": "Hostage Crisis (short story)"
+    },
+    {
+      "id": 3002,
+      "title": "Kenobi\u0027s Shadow"
+    },
+    {
+      "id": 3003,
+      "title": "Pursuit of Peace (short story)"
+    },
+    {
+      "id": 3004,
+      "title": "Sharing the Same Face"
+    },
+    {
+      "id": 3005,
+      "title": "The Lost Nightsister"
+    },
+    {
+      "id": 3007,
+      "title": "The Shadow of Umbara"
+    },
+    {
+      "id": 3013,
+      "title": "A Bitter Harvest"
+    },
+    {
+      "id": 3014,
+      "title": "Bakurat (short story)"
+    },
+    {
+      "id": 3015,
+      "title": "Sleep of Ages"
+    },
+    {
+      "id": 3016,
+      "title": "The Golden One"
+    },
+    {
+      "id": 3017,
+      "title": "The Leviathan"
+    },
+    {
+      "id": 3018,
+      "title": "The Sleeping Eye"
+    },
+    {
+      "id": 3027,
+      "title": "An Unwilling Apprentice"
+    },
+    {
+      "id": 3031,
+      "title": "The Silent Circle (short story)"
+    },
+    {
+      "id": 3032,
+      "title": "The Skiff \u0026 the Galleons"
+    },
+    {
+      "id": 3033,
+      "title": "The Light You Bring"
+    },
+    {
+      "id": 3034,
+      "title": "Count to Three"
+    },
+    {
+      "id": 3045,
+      "title": "A Good Kiss"
+    },
+    {
+      "id": 3046,
+      "title": "A Naturalist on Hoth"
+    },
+    {
+      "id": 3047,
+      "title": "Against All Odds"
+    },
+    {
+      "id": 3048,
+      "title": "Amara Kel\u0027s Rules for TIE Pilot Survival (Probably)"
+    },
+    {
+      "id": 3049,
+      "title": "Bespin Escape"
+    },
+    {
+      "id": 3050,
+      "title": "Beyond Hope"
+    },
+    {
+      "id": 3051,
+      "title": "Beyond the Clouds"
+    },
+    {
+      "id": 3052,
+      "title": "But What Does He Eat?"
+    },
+    {
+      "id": 3053,
+      "title": "Disturbance"
+    },
+    {
+      "id": 3054,
+      "title": "Due on Batuu"
+    },
+    {
+      "id": 3055,
+      "title": "Eyes of the Empire"
+    },
+    {
+      "id": 3056,
+      "title": "Faith in an Old Friend"
+    },
+    {
+      "id": 3057,
+      "title": "Fake It Till You Make It"
+    },
+    {
+      "id": 3058,
+      "title": "For the Last Time"
+    },
+    {
+      "id": 3059,
+      "title": "Heroes of the Rebellion (short story)"
+    },
+    {
+      "id": 3060,
+      "title": "Hunger (short story)"
+    },
+    {
+      "id": 3061,
+      "title": "Into the Clouds"
+    },
+    {
+      "id": 3062,
+      "title": "Ion Control"
+    },
+    {
+      "id": 3063,
+      "title": "Kendal"
+    },
+    {
+      "id": 3064,
+      "title": "Lord Vader Will See You Now"
+    },
+    {
+      "id": 3065,
+      "title": "No Time for Poetry"
+    },
+    {
+      "id": 3066,
+      "title": "Rendezvous Point (short story)"
+    },
+    {
+      "id": 3067,
+      "title": "Right-Hand Man"
+    },
+    {
+      "id": 3068,
+      "title": "Rogue Two (short story)"
+    },
+    {
+      "id": 3069,
+      "title": "She Will Keep Them Warm"
+    },
+    {
+      "id": 3070,
+      "title": "Standard Imperial Procedure"
+    },
+    {
+      "id": 3071,
+      "title": "STET!"
+    },
+    {
+      "id": 3072,
+      "title": "The Backup Backup Plan"
+    },
+    {
+      "id": 3073,
+      "title": "The Final Order"
+    },
+    {
+      "id": 3074,
+      "title": "The First Lesson"
+    },
+    {
+      "id": 3075,
+      "title": "The Man Who Built Cloud City"
+    },
+    {
+      "id": 3076,
+      "title": "The Truest Duty"
+    },
+    {
+      "id": 3077,
+      "title": "The Whills Strike Back"
+    },
+    {
+      "id": 3078,
+      "title": "The Witness"
+    },
+    {
+      "id": 3079,
+      "title": "There Is Always Another"
+    },
+    {
+      "id": 3080,
+      "title": "This Is No Cave"
+    },
+    {
+      "id": 3081,
+      "title": "Tooth and Claw"
+    },
+    {
+      "id": 3082,
+      "title": "Vergence (short story)"
+    },
+    {
+      "id": 3083,
+      "title": "Wait for It"
+    },
+    {
+      "id": 3102,
+      "title": "Starlight: Part One: Go Together"
+    },
+    {
+      "id": 3127,
+      "title": "Starlight: Go Together: Part Two"
+    },
+    {
+      "id": 3139,
+      "title": "Starlight: First Duty"
+    },
+    {
+      "id": 3166,
+      "title": "Starlight: Hidden Danger"
+    },
+    {
+      "id": 3211,
+      "title": "A Coruscant Solstice"
+    },
+    {
+      "id": 3212,
+      "title": "An Old Hope"
+    },
+    {
+      "id": 3213,
+      "title": "Reflection Day (short story)"
+    },
+    {
+      "id": 3216,
+      "title": "The Kindling"
+    },
+    {
+      "id": 3217,
+      "title": "The Kroolok"
+    },
+    {
+      "id": 3218,
+      "title": "The Song of Winter\u0027s Heart"
+    },
+    {
+      "id": 3219,
+      "title": "The Spirit of Life Day"
+    },
+    {
+      "id": 3220,
+      "title": "The Tree of Life"
+    },
+    {
+      "id": 3227,
+      "title": "Starlight: Past Mistakes"
+    },
+    {
+      "id": 3283,
+      "title": "Starlight: Shadows Remain"
+    },
+    {
+      "id": 3335,
+      "title": "Galactic Tales: The Wesell Run"
+    },
+    {
+      "id": 3351,
+      "title": "Galactic Tales: Saber Truth"
+    },
+    {
+      "id": 3363,
+      "title": "A Jedi\u0027s Duty"
+    },
+    {
+      "id": 3364,
+      "title": "Blood Moon Uprising (short story)"
+    },
+    {
+      "id": 3365,
+      "title": "Galactic Tales: Inheritance"
+    },
+    {
+      "id": 3366,
+      "title": "Luke on the Bright Side"
+    },
+    {
+      "id": 3367,
+      "title": "Masters"
+    },
+    {
+      "id": 3368,
+      "title": "Resolve (short story)"
+    },
+    {
+      "id": 3369,
+      "title": "The Eye of the Beholder"
+    },
+    {
+      "id": 3370,
+      "title": "The Ghosts of Maul"
+    },
+    {
+      "id": 3371,
+      "title": "Through the Turbulence"
+    },
+    {
+      "id": 3372,
+      "title": "What a Jedi Makes"
+    },
+    {
+      "id": 3373,
+      "title": "Worthless"
+    },
+    {
+      "id": 3397,
+      "title": "Galactic Tales: From The Shadows Come The Kran"
+    }
+  ]
+}

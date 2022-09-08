@@ -1,0 +1,3170 @@
+{
+  "id": 4,
+  "title": "Comics (Canon)",
+  "items": [
+    {
+      "id": 1790,
+      "title": "Darth Maul\u2014Son of Dathomir 1"
+    },
+    {
+      "id": 1791,
+      "title": "Darth Maul\u2014Son of Dathomir 2"
+    },
+    {
+      "id": 1792,
+      "title": "Darth Maul\u2014Son of Dathomir 3"
+    },
+    {
+      "id": 1807,
+      "title": "Darth Maul\u2014Son of Dathomir 4"
+    },
+    {
+      "id": 1856,
+      "title": "Star Wars (2015) 1"
+    },
+    {
+      "id": 1858,
+      "title": "Ring Race"
+    },
+    {
+      "id": 1862,
+      "title": "Star Wars (2015) 2"
+    },
+    {
+      "id": 1865,
+      "title": "Darth Vader (2015) 1"
+    },
+    {
+      "id": 1868,
+      "title": "Darth Vader (2015) 2"
+    },
+    {
+      "id": 1869,
+      "title": "Learning Patience"
+    },
+    {
+      "id": 1873,
+      "title": "Princess Leia 1"
+    },
+    {
+      "id": 1878,
+      "title": "Star Wars (2015) 3"
+    },
+    {
+      "id": 1880,
+      "title": "Princess Leia 2"
+    },
+    {
+      "id": 1881,
+      "title": "Darth Vader (2015) 3"
+    },
+    {
+      "id": 1882,
+      "title": "The Fake Jedi"
+    },
+    {
+      "id": 1885,
+      "title": "Kanan 1"
+    },
+    {
+      "id": 1889,
+      "title": "Darth Vader (2015) 4"
+    },
+    {
+      "id": 1891,
+      "title": "Kallus\u0027 Hunt"
+    },
+    {
+      "id": 1892,
+      "title": "Star Wars (2015) 4"
+    },
+    {
+      "id": 1896,
+      "title": "Princess Leia 3"
+    },
+    {
+      "id": 1898,
+      "title": "Kanan 2"
+    },
+    {
+      "id": 1899,
+      "title": "Darth Vader (2015) 5"
+    },
+    {
+      "id": 1900,
+      "title": "Return of the Slavers"
+    },
+    {
+      "id": 1901,
+      "title": "Star Wars (2015) 5"
+    },
+    {
+      "id": 1902,
+      "title": "Darth Vader (2015) 6"
+    },
+    {
+      "id": 1903,
+      "title": "Princess Leia 4"
+    },
+    {
+      "id": 1904,
+      "title": "Star Wars (2015) 6"
+    },
+    {
+      "id": 1907,
+      "title": "Kanan 3"
+    },
+    {
+      "id": 1909,
+      "title": "Eyes on the Prize"
+    },
+    {
+      "id": 1912,
+      "title": "Darth Vader (2015) 7"
+    },
+    {
+      "id": 1913,
+      "title": "Princess Leia 5"
+    },
+    {
+      "id": 1917,
+      "title": "Lando 1"
+    },
+    {
+      "id": 1918,
+      "title": "Sabotaged Supplies"
+    },
+    {
+      "id": 1920,
+      "title": "Kanan 4"
+    },
+    {
+      "id": 1928,
+      "title": "Star Wars (2015) 7"
+    },
+    {
+      "id": 1937,
+      "title": "Darth Vader (2015) 8"
+    },
+    {
+      "id": 1938,
+      "title": "Ezra\u0027s Vision"
+    },
+    {
+      "id": 1939,
+      "title": "Lando 2"
+    },
+    {
+      "id": 1940,
+      "title": "Kanan 5"
+    },
+    {
+      "id": 1941,
+      "title": "Star Wars (2015) 8"
+    },
+    {
+      "id": 1942,
+      "title": "Lando 3"
+    },
+    {
+      "id": 1968,
+      "title": "Darth Vader (2015) 9"
+    },
+    {
+      "id": 1969,
+      "title": "Senate Perspective"
+    },
+    {
+      "id": 1970,
+      "title": "Shattered Empire 1"
+    },
+    {
+      "id": 1972,
+      "title": "Lando 4"
+    },
+    {
+      "id": 1973,
+      "title": "Star Wars (2015) 9"
+    },
+    {
+      "id": 1977,
+      "title": "Kanan 6"
+    },
+    {
+      "id": 1980,
+      "title": "Star Wars (LINE Webtoon)"
+    },
+    {
+      "id": 1985,
+      "title": "Becoming Hunted"
+    },
+    {
+      "id": 1986,
+      "title": "Darth Vader (2015) 10"
+    },
+    {
+      "id": 1987,
+      "title": "Lando 5"
+    },
+    {
+      "id": 1988,
+      "title": "Shattered Empire 2"
+    },
+    {
+      "id": 1989,
+      "title": "Star Wars (2015) 10"
+    },
+    {
+      "id": 1990,
+      "title": "Chewbacca (2015) 1"
+    },
+    {
+      "id": 1991,
+      "title": "Shattered Empire 3"
+    },
+    {
+      "id": 1996,
+      "title": "Darth Vader (2015) 11"
+    },
+    {
+      "id": 1997,
+      "title": "Shattered Empire 4"
+    },
+    {
+      "id": 1999,
+      "title": "Chewbacca (2015) 2"
+    },
+    {
+      "id": 2000,
+      "title": "Kanan 7"
+    },
+    {
+      "id": 2005,
+      "title": "Assessment"
+    },
+    {
+      "id": 2006,
+      "title": "Star Wars (2015) 11"
+    },
+    {
+      "id": 2009,
+      "title": "Chewbacca (2015) 3"
+    },
+    {
+      "id": 2010,
+      "title": "Darth Vader (2015) 12"
+    },
+    {
+      "id": 2014,
+      "title": "Kanan 8"
+    },
+    {
+      "id": 2015,
+      "title": "Star Wars (2015) 12"
+    },
+    {
+      "id": 2017,
+      "title": "Vader Down 1"
+    },
+    {
+      "id": 2019,
+      "title": "Chewbacca (2015) 4"
+    },
+    {
+      "id": 2020,
+      "title": "Darth Vader (2015) 13"
+    },
+    {
+      "id": 2026,
+      "title": "Ocean Rescue"
+    },
+    {
+      "id": 2027,
+      "title": "Star Wars (2015) 13"
+    },
+    {
+      "id": 2029,
+      "title": "Star Wars Annual (2015) 1"
+    },
+    {
+      "id": 2033,
+      "title": "Darth Vader Annual 1"
+    },
+    {
+      "id": 2034,
+      "title": "Kanan 9"
+    },
+    {
+      "id": 2053,
+      "title": "Darth Vader (2015) 14"
+    },
+    {
+      "id": 2054,
+      "title": "Chewbacca (2015) 5"
+    },
+    {
+      "id": 2055,
+      "title": "Secrets of Sienar"
+    },
+    {
+      "id": 2057,
+      "title": "Darth Vader (2015) 15"
+    },
+    {
+      "id": 2058,
+      "title": "Obi-Wan and Anakin 1"
+    },
+    {
+      "id": 2059,
+      "title": "Star Wars (2015) 14"
+    },
+    {
+      "id": 2060,
+      "title": "Star Wars (2015) 15"
+    },
+    {
+      "id": 2062,
+      "title": "Kanan 10"
+    },
+    {
+      "id": 2063,
+      "title": "No Sympathy"
+    },
+    {
+      "id": 2067,
+      "title": "Obi-Wan and Anakin 2"
+    },
+    {
+      "id": 2069,
+      "title": "Darth Vader (2015) 16"
+    },
+    {
+      "id": 2073,
+      "title": "Star Wars (2015) 16"
+    },
+    {
+      "id": 2076,
+      "title": "A Day\u0027s Duty"
+    },
+    {
+      "id": 2077,
+      "title": "Kanan 11"
+    },
+    {
+      "id": 2082,
+      "title": "Darth Vader (2015) 17"
+    },
+    {
+      "id": 2084,
+      "title": "Kanan 12"
+    },
+    {
+      "id": 2086,
+      "title": "Ice Breaking"
+    },
+    {
+      "id": 2087,
+      "title": "Obi-Wan and Anakin 3"
+    },
+    {
+      "id": 2088,
+      "title": "Star Wars (2015) 17"
+    },
+    {
+      "id": 2090,
+      "title": "Darth Vader (2015) 18"
+    },
+    {
+      "id": 2096,
+      "title": "Poe Dameron 1"
+    },
+    {
+      "id": 2097,
+      "title": "SaBBotage"
+    },
+    {
+      "id": 2100,
+      "title": "Darth Vader (2015) 19"
+    },
+    {
+      "id": 2101,
+      "title": "Star Wars Special: C-3PO 1"
+    },
+    {
+      "id": 2102,
+      "title": "Obi-Wan and Anakin 4"
+    },
+    {
+      "id": 2103,
+      "title": "Vulnerable Areas"
+    },
+    {
+      "id": 2105,
+      "title": "Star Wars (2015) 18"
+    },
+    {
+      "id": 2107,
+      "title": "Poe Dameron 2"
+    },
+    {
+      "id": 2108,
+      "title": "Darth Vader (2015) 20"
+    },
+    {
+      "id": 2109,
+      "title": "The Misadventures of Triple-Zero and Beetee"
+    },
+    {
+      "id": 2111,
+      "title": "Academy Cadets"
+    },
+    {
+      "id": 2112,
+      "title": "Obi-Wan and Anakin 5"
+    },
+    {
+      "id": 2113,
+      "title": "Star Wars (2015) 19"
+    },
+    {
+      "id": 2115,
+      "title": "Darth Vader (2015) 21"
+    },
+    {
+      "id": 2116,
+      "title": "Poe Dameron 3"
+    },
+    {
+      "id": 2117,
+      "title": "Han Solo 1"
+    },
+    {
+      "id": 2118,
+      "title": "Star Wars (2015) 20"
+    },
+    {
+      "id": 2119,
+      "title": "The Force Awakens Adaptation 1"
+    },
+    {
+      "id": 2120,
+      "title": "Darth Vader (2015) 22"
+    },
+    {
+      "id": 2121,
+      "title": "Escaping the Scrap Pile"
+    },
+    {
+      "id": 2124,
+      "title": "Han Solo 2"
+    },
+    {
+      "id": 2125,
+      "title": "Poe Dameron 4"
+    },
+    {
+      "id": 2127,
+      "title": "Darth Vader (2015) 23"
+    },
+    {
+      "id": 2128,
+      "title": "Star Wars (2015) 21"
+    },
+    {
+      "id": 2129,
+      "title": "The Force Awakens Adaptation 2"
+    },
+    {
+      "id": 2131,
+      "title": "Darth Vader (2015) 24"
+    },
+    {
+      "id": 2132,
+      "title": "The Gangsters of Galzez"
+    },
+    {
+      "id": 2133,
+      "title": "Poe Dameron 5"
+    },
+    {
+      "id": 2135,
+      "title": "Star Wars (2015) 22"
+    },
+    {
+      "id": 2136,
+      "title": "The Force Awakens Adaptation 3"
+    },
+    {
+      "id": 2138,
+      "title": "Han Solo 3"
+    },
+    {
+      "id": 2139,
+      "title": "Poe Dameron 6"
+    },
+    {
+      "id": 2141,
+      "title": "The Force Awakens Adaptation 4"
+    },
+    {
+      "id": 2142,
+      "title": "Puffer Problems"
+    },
+    {
+      "id": 2144,
+      "title": "Always Bet on Chop"
+    },
+    {
+      "id": 2145,
+      "title": "Star Wars (2015) 23"
+    },
+    {
+      "id": 2150,
+      "title": "Coda"
+    },
+    {
+      "id": 2151,
+      "title": "Darth Vader (2015) 25"
+    },
+    {
+      "id": 2152,
+      "title": "Han Solo 4"
+    },
+    {
+      "id": 2153,
+      "title": "The Force Awakens Adaptation 5"
+    },
+    {
+      "id": 2156,
+      "title": "Poe Dameron 7"
+    },
+    {
+      "id": 2157,
+      "title": "Star Wars (2015) 24"
+    },
+    {
+      "id": 2158,
+      "title": "The Second Chance"
+    },
+    {
+      "id": 2162,
+      "title": "The Thune Cargo"
+    },
+    {
+      "id": 2164,
+      "title": "Poe Dameron 8"
+    },
+    {
+      "id": 2165,
+      "title": "The Force Awakens Adaptation 6"
+    },
+    {
+      "id": 2169,
+      "title": "Droid Dilemma"
+    },
+    {
+      "id": 2170,
+      "title": "Han Solo 5"
+    },
+    {
+      "id": 2171,
+      "title": "Star Wars (2015) 25"
+    },
+    {
+      "id": 2172,
+      "title": "The Ballad of 264"
+    },
+    {
+      "id": 2174,
+      "title": "Star Wars Annual (2015) 2"
+    },
+    {
+      "id": 2178,
+      "title": "Doctor Aphra (2016) 1"
+    },
+    {
+      "id": 2180,
+      "title": "Poe Dameron 9"
+    },
+    {
+      "id": 2186,
+      "title": "Doctor Aphra (2016) 2"
+    },
+    {
+      "id": 2187,
+      "title": "The Line of Duty"
+    },
+    {
+      "id": 2188,
+      "title": "Star Wars (2015) 26"
+    },
+    {
+      "id": 2192,
+      "title": "Poe Dameron 10"
+    },
+    {
+      "id": 2196,
+      "title": "A Time to Survive"
+    },
+    {
+      "id": 2197,
+      "title": "Doctor Aphra (2016) 3"
+    },
+    {
+      "id": 2199,
+      "title": "Star Wars (2015) 27"
+    },
+    {
+      "id": 2200,
+      "title": "Darth Maul (2017) 1"
+    },
+    {
+      "id": 2201,
+      "title": "Probe Droid Problem"
+    },
+    {
+      "id": 2202,
+      "title": "Star Wars (2015) 28"
+    },
+    {
+      "id": 2204,
+      "title": "Doctor Aphra (2016) 4"
+    },
+    {
+      "id": 2205,
+      "title": "Poe Dameron 11"
+    },
+    {
+      "id": 2206,
+      "title": "Too Late to Change"
+    },
+    {
+      "id": 2211,
+      "title": "Star Wars (2015) 29"
+    },
+    {
+      "id": 2215,
+      "title": "Doctor Aphra (2016) 5"
+    },
+    {
+      "id": 2218,
+      "title": "Poe Dameron 12"
+    },
+    {
+      "id": 2219,
+      "title": "The Size of the Fight"
+    },
+    {
+      "id": 2221,
+      "title": "Darth Maul (2017) 2"
+    },
+    {
+      "id": 2223,
+      "title": "The Weapon of a Jedi, Part 1"
+    },
+    {
+      "id": 2224,
+      "title": "Star Wars: The Prequel Trilogy \u2013 A Graphic Novel"
+    },
+    {
+      "id": 2225,
+      "title": "Rogue One Adaptation 1"
+    },
+    {
+      "id": 2226,
+      "title": "Star Wars (2015) 30"
+    },
+    {
+      "id": 2229,
+      "title": "Doctor Aphra (2016) 6"
+    },
+    {
+      "id": 2230,
+      "title": "The Wrong Crowd"
+    },
+    {
+      "id": 2231,
+      "title": "Poe Dameron 13"
+    },
+    {
+      "id": 2232,
+      "title": "Darth Maul (2017) 3"
+    },
+    {
+      "id": 2237,
+      "title": "Poe Dameron 14"
+    },
+    {
+      "id": 2238,
+      "title": "Rogue One Adaptation 2"
+    },
+    {
+      "id": 2240,
+      "title": "Lost Stars (webcomic)"
+    },
+    {
+      "id": 2245,
+      "title": "Off the Rails"
+    },
+    {
+      "id": 2246,
+      "title": "The Screaming Citadel 1"
+    },
+    {
+      "id": 2247,
+      "title": "Poe Dameron 15"
+    },
+    {
+      "id": 2248,
+      "title": "Star Wars (2015) 31"
+    },
+    {
+      "id": 2249,
+      "title": "The Weapon of a Jedi, Part 2"
+    },
+    {
+      "id": 2251,
+      "title": "Doctor Aphra (2016) 7"
+    },
+    {
+      "id": 2252,
+      "title": "Darth Vader (2017) 1"
+    },
+    {
+      "id": 2253,
+      "title": "No Good Deed..."
+    },
+    {
+      "id": 2254,
+      "title": "Rogue One Adaptation 3"
+    },
+    {
+      "id": 2255,
+      "title": "To Thy Metal Heart Be True"
+    },
+    {
+      "id": 2256,
+      "title": "Star Wars (2015) 32"
+    },
+    {
+      "id": 2257,
+      "title": "Darth Maul (2017) 4"
+    },
+    {
+      "id": 2258,
+      "title": "Darth Vader (2017) 2"
+    },
+    {
+      "id": 2259,
+      "title": "Poe Dameron Annual 1"
+    },
+    {
+      "id": 2260,
+      "title": "Doctor Aphra (2016) 8"
+    },
+    {
+      "id": 2261,
+      "title": "Poe Dameron 16"
+    },
+    {
+      "id": 2265,
+      "title": "Rogue One Adaptation 4"
+    },
+    {
+      "id": 2266,
+      "title": "Sons of the Sky"
+    },
+    {
+      "id": 2267,
+      "title": "Star Wars (2015) 33"
+    },
+    {
+      "id": 2274,
+      "title": "Darth Vader (2017) 3"
+    },
+    {
+      "id": 2275,
+      "title": "Doctor Aphra (2016) 9"
+    },
+    {
+      "id": 2276,
+      "title": "Star Wars Adventures Ashcan"
+    },
+    {
+      "id": 2277,
+      "title": "Darth Maul (2017) 5"
+    },
+    {
+      "id": 2278,
+      "title": "Poe Dameron 17"
+    },
+    {
+      "id": 2279,
+      "title": "The Weapon of a Jedi, Part 3"
+    },
+    {
+      "id": 2281,
+      "title": "Doctor Aphra (2016) 10"
+    },
+    {
+      "id": 2283,
+      "title": "Darth Vader (2017) 4"
+    },
+    {
+      "id": 2284,
+      "title": "Final Round"
+    },
+    {
+      "id": 2285,
+      "title": "Rogue One Adaptation 5"
+    },
+    {
+      "id": 2286,
+      "title": "Spark of Rebellion: A Star Wars Rebels Cinestory Comic"
+    },
+    {
+      "id": 2287,
+      "title": "Doctor Aphra (2016) 11"
+    },
+    {
+      "id": 2288,
+      "title": "Rogue One - Cassian \u0026 K-2SO Special 1"
+    },
+    {
+      "id": 2289,
+      "title": "Poe Dameron 18"
+    },
+    {
+      "id": 2290,
+      "title": "Star Wars (2015) 34"
+    },
+    {
+      "id": 2292,
+      "title": "Doctor Aphra Annual 1"
+    },
+    {
+      "id": 2293,
+      "title": "Star Wars: The Force Awakens Graphic Novel Adaptation"
+    },
+    {
+      "id": 2294,
+      "title": "A Youth Unpromising"
+    },
+    {
+      "id": 2295,
+      "title": "Jedi of the Republic \u2013 Mace Windu 1"
+    },
+    {
+      "id": 2296,
+      "title": "Star Wars (2015) 35"
+    },
+    {
+      "id": 2301,
+      "title": "Better the Devil You Know, Part I"
+    },
+    {
+      "id": 2302,
+      "title": "Captain Phasma 1"
+    },
+    {
+      "id": 2303,
+      "title": "Darth Vader (2017) 5"
+    },
+    {
+      "id": 2304,
+      "title": "Rogue One Adaptation 6"
+    },
+    {
+      "id": 2305,
+      "title": "Tales from Wild Space: Stop, Thief!"
+    },
+    {
+      "id": 2306,
+      "title": "Doctor Aphra (2016) 12"
+    },
+    {
+      "id": 2307,
+      "title": "Star Wars (2015) 36"
+    },
+    {
+      "id": 2308,
+      "title": "The Weapon of a Jedi, Part 4"
+    },
+    {
+      "id": 2309,
+      "title": "Better the Devil You Know, Part II"
+    },
+    {
+      "id": 2310,
+      "title": "Captain Phasma 2"
+    },
+    {
+      "id": 2311,
+      "title": "Poe Dameron 19"
+    },
+    {
+      "id": 2312,
+      "title": "Star Wars Annual (2015) 3"
+    },
+    {
+      "id": 2313,
+      "title": "Tales from Wild Space: The Flat Mountain of Yavin"
+    },
+    {
+      "id": 2332,
+      "title": "Jedi of the Republic \u2013 Mace Windu 2"
+    },
+    {
+      "id": 2363,
+      "title": "Star Wars: A New Hope Cinestory Comic"
+    },
+    {
+      "id": 2380,
+      "title": "Captain Phasma 3"
+    },
+    {
+      "id": 2381,
+      "title": "Darth Vader (2017) 6"
+    },
+    {
+      "id": 2382,
+      "title": "Star Wars (2015) 37"
+    },
+    {
+      "id": 2383,
+      "title": "The Sand Will Provide"
+    },
+    {
+      "id": 2384,
+      "title": "Doctor Aphra (2016) 13"
+    },
+    {
+      "id": 2386,
+      "title": "Captain Phasma 4"
+    },
+    {
+      "id": 2387,
+      "title": "Pest Control"
+    },
+    {
+      "id": 2388,
+      "title": "Poe Dameron 20"
+    },
+    {
+      "id": 2389,
+      "title": "Tales from Wild Space: Adventures in Wookiee-Sitting"
+    },
+    {
+      "id": 2391,
+      "title": "Fifth and Final"
+    },
+    {
+      "id": 2392,
+      "title": "Jedi of the Republic \u2013 Mace Windu 3"
+    },
+    {
+      "id": 2401,
+      "title": "Darth Vader (2017) 7"
+    },
+    {
+      "id": 2404,
+      "title": "Star Wars (2015) 38"
+    },
+    {
+      "id": 2406,
+      "title": "Path of the Jedi: A Star Wars Rebels Cinestory Comic"
+    },
+    {
+      "id": 2407,
+      "title": "Darth Vader (2017) 8"
+    },
+    {
+      "id": 2408,
+      "title": "Doctor Aphra (2016) 14"
+    },
+    {
+      "id": 2411,
+      "title": "Star Wars (2015) 39"
+    },
+    {
+      "id": 2412,
+      "title": "Jedi of the Republic \u2013 Mace Windu 4"
+    },
+    {
+      "id": 2413,
+      "title": "Poe Dameron 21"
+    },
+    {
+      "id": 2414,
+      "title": "Tales from Wild Space: Mattis Makes a Stand"
+    },
+    {
+      "id": 2415,
+      "title": "The Trouble at Tibrin"
+    },
+    {
+      "id": 2420,
+      "title": "Darth Vader (2017) 9"
+    },
+    {
+      "id": 2422,
+      "title": "Star Wars: Rogue One Graphic Novel Adaptation"
+    },
+    {
+      "id": 2423,
+      "title": "Star Wars (2015) 40"
+    },
+    {
+      "id": 2439,
+      "title": "Destroyer Down"
+    },
+    {
+      "id": 2440,
+      "title": "Doctor Aphra (2016) 15"
+    },
+    {
+      "id": 2441,
+      "title": "Never Far Behind"
+    },
+    {
+      "id": 2442,
+      "title": "Poe Dameron 22"
+    },
+    {
+      "id": 2443,
+      "title": "The Ghost Ship"
+    },
+    {
+      "id": 2444,
+      "title": "Jedi of the Republic \u2013 Mace Windu 5"
+    },
+    {
+      "id": 2445,
+      "title": "Star Wars: The Last Jedi \u2013 The Storms of Crait 1"
+    },
+    {
+      "id": 2446,
+      "title": "Tales from Wild Space: The Best Pet"
+    },
+    {
+      "id": 2447,
+      "title": "The Trouble at Tibrin, Part II"
+    },
+    {
+      "id": 2449,
+      "title": "Smuggler\u0027s Run, Part 1"
+    },
+    {
+      "id": 2450,
+      "title": "Star Wars (2015) 41"
+    },
+    {
+      "id": 2451,
+      "title": "Star Wars: Forces of Destiny\u2014Leia"
+    },
+    {
+      "id": 2452,
+      "title": "Darth Vader (2017) 10"
+    },
+    {
+      "id": 2453,
+      "title": "Star Wars: Forces of Destiny\u2014Rey"
+    },
+    {
+      "id": 2454,
+      "title": "Rose Knows"
+    },
+    {
+      "id": 2455,
+      "title": "Star Wars (2015) 42"
+    },
+    {
+      "id": 2456,
+      "title": "Star Wars: Forces of Destiny\u2014Hera"
+    },
+    {
+      "id": 2457,
+      "title": "Tales from Wild Space: Podracer\u0027s Rescue"
+    },
+    {
+      "id": 2458,
+      "title": "Poe Dameron 23"
+    },
+    {
+      "id": 2459,
+      "title": "Star Wars: Forces of Destiny\u2014Ahsoka \u0026 Padm\u00E9"
+    },
+    {
+      "id": 2460,
+      "title": "Doctor Aphra (2016) 16"
+    },
+    {
+      "id": 2461,
+      "title": "Smuggler\u0027s Run, Part 2"
+    },
+    {
+      "id": 2462,
+      "title": "Star Wars: Forces of Destiny\u2014Rose \u0026 Paige"
+    },
+    {
+      "id": 2463,
+      "title": "Star Wars: The Last Jedi \u2013 DJ \u2013 Most Wanted 1"
+    },
+    {
+      "id": 2464,
+      "title": "Maul: A Star Wars Rebels Cinestory Comic"
+    },
+    {
+      "id": 2465,
+      "title": "Star Wars (2015) 43"
+    },
+    {
+      "id": 2466,
+      "title": "A Trooper\u0027s Worth"
+    },
+    {
+      "id": 2467,
+      "title": "Darth Vader (2017) 11"
+    },
+    {
+      "id": 2468,
+      "title": "Poe Dameron 24"
+    },
+    {
+      "id": 2469,
+      "title": "Thrawn 1"
+    },
+    {
+      "id": 2472,
+      "title": "Doctor Aphra (2016) 17"
+    },
+    {
+      "id": 2475,
+      "title": "Darth Vader (2017) 12"
+    },
+    {
+      "id": 2476,
+      "title": "Smuggler\u0027s Run, Part 3"
+    },
+    {
+      "id": 2484,
+      "title": "Endangered, Part 1"
+    },
+    {
+      "id": 2485,
+      "title": "Star Wars (2015) 44"
+    },
+    {
+      "id": 2486,
+      "title": "Tales from Wild Space: Look Before You Leap"
+    },
+    {
+      "id": 2487,
+      "title": "Darth Vader (2017) 13"
+    },
+    {
+      "id": 2488,
+      "title": "Thrawn 2"
+    },
+    {
+      "id": 2497,
+      "title": "Poe Dameron 25"
+    },
+    {
+      "id": 2498,
+      "title": "Star Wars (2015) 45"
+    },
+    {
+      "id": 2500,
+      "title": "Doctor Aphra (2016) 18"
+    },
+    {
+      "id": 2501,
+      "title": "Endangered, Part 2"
+    },
+    {
+      "id": 2502,
+      "title": "Smuggler\u0027s Run, Part 4"
+    },
+    {
+      "id": 2503,
+      "title": "Tales from Wild Space: Gonk!"
+    },
+    {
+      "id": 2504,
+      "title": "Star Wars (2015) 46"
+    },
+    {
+      "id": 2506,
+      "title": "Darth Vader (2017) 14"
+    },
+    {
+      "id": 2507,
+      "title": "Divide and Conquer"
+    },
+    {
+      "id": 2508,
+      "title": "Thrawn 3"
+    },
+    {
+      "id": 2511,
+      "title": "Mind Your Manners"
+    },
+    {
+      "id": 2512,
+      "title": "Poe Dameron 26"
+    },
+    {
+      "id": 2513,
+      "title": "Tales from Wild Space: IG-88 vs. the Gatto Gang"
+    },
+    {
+      "id": 2514,
+      "title": "The Lost Eggs of Livorno"
+    },
+    {
+      "id": 2515,
+      "title": "Trouble Again"
+    },
+    {
+      "id": 2516,
+      "title": "Darth Vader (2017) 15"
+    },
+    {
+      "id": 2517,
+      "title": "Doctor Aphra (2016) 19"
+    },
+    {
+      "id": 2518,
+      "title": "Star Wars (2015) 47"
+    },
+    {
+      "id": 2527,
+      "title": "Star Wars Adventures Free Comic Book Day 2018"
+    },
+    {
+      "id": 2528,
+      "title": "Darth Vader (2017) 16"
+    },
+    {
+      "id": 2529,
+      "title": "Powered Down, Part I"
+    },
+    {
+      "id": 2530,
+      "title": "Tales from Wild Space: Family Affair, Part 1"
+    },
+    {
+      "id": 2531,
+      "title": "The Last Jedi Adaptation 1"
+    },
+    {
+      "id": 2532,
+      "title": "Thrawn 4"
+    },
+    {
+      "id": 2533,
+      "title": "Poe Dameron 27"
+    },
+    {
+      "id": 2534,
+      "title": "Doctor Aphra (2016) 20"
+    },
+    {
+      "id": 2535,
+      "title": "Star Wars (2015) 48"
+    },
+    {
+      "id": 2536,
+      "title": "Star Wars Annual (2015) 4"
+    },
+    {
+      "id": 2537,
+      "title": "The Last Jedi Adaptation 2"
+    },
+    {
+      "id": 2544,
+      "title": "Lando - Double or Nothing 1"
+    },
+    {
+      "id": 2545,
+      "title": "Powered Down, Part II"
+    },
+    {
+      "id": 2546,
+      "title": "Star Wars (2015) 49"
+    },
+    {
+      "id": 2547,
+      "title": "Tales from Wild Space: Family Affair, Part 2"
+    },
+    {
+      "id": 2548,
+      "title": "The Beast Within"
+    },
+    {
+      "id": 2549,
+      "title": "The Last Jedi Adaptation 3"
+    },
+    {
+      "id": 2550,
+      "title": "Darth Vader (2017) 17"
+    },
+    {
+      "id": 2551,
+      "title": "Thrawn 5"
+    },
+    {
+      "id": 2552,
+      "title": "Poe Dameron 28"
+    },
+    {
+      "id": 2553,
+      "title": "Doctor Aphra (2016) 21"
+    },
+    {
+      "id": 2554,
+      "title": "Lando - Double or Nothing 2"
+    },
+    {
+      "id": 2555,
+      "title": "Shu-Torun Lives"
+    },
+    {
+      "id": 2556,
+      "title": "Star Wars (2015) 50"
+    },
+    {
+      "id": 2557,
+      "title": "The Last Jedi Adaptation 4"
+    },
+    {
+      "id": 2559,
+      "title": "Darth Vader (2017) 18"
+    },
+    {
+      "id": 2560,
+      "title": "Thrawn 6"
+    },
+    {
+      "id": 2561,
+      "title": "Darth Vader Annual 2"
+    },
+    {
+      "id": 2562,
+      "title": "Poe Dameron 29"
+    },
+    {
+      "id": 2563,
+      "title": "Star Wars (2015) 51"
+    },
+    {
+      "id": 2565,
+      "title": "Doctor Aphra (2016) 22"
+    },
+    {
+      "id": 2566,
+      "title": "Intermission, Part I"
+    },
+    {
+      "id": 2567,
+      "title": "Lando - Double or Nothing 3"
+    },
+    {
+      "id": 2568,
+      "title": "Tales from Wild Space: A Small Push"
+    },
+    {
+      "id": 2570,
+      "title": "Star Wars (2015) 52"
+    },
+    {
+      "id": 2571,
+      "title": "The Last Jedi Adaptation 5"
+    },
+    {
+      "id": 2572,
+      "title": "Darth Vader (2017) 19"
+    },
+    {
+      "id": 2573,
+      "title": "Beckett 1"
+    },
+    {
+      "id": 2574,
+      "title": "Poe Dameron 30"
+    },
+    {
+      "id": 2575,
+      "title": "Darth Vader (2017) 20"
+    },
+    {
+      "id": 2576,
+      "title": "Doctor Aphra (2016) 23"
+    },
+    {
+      "id": 2577,
+      "title": "Intermission, Part II"
+    },
+    {
+      "id": 2578,
+      "title": "Lando - Double or Nothing 4"
+    },
+    {
+      "id": 2579,
+      "title": "Poe Dameron Annual 2"
+    },
+    {
+      "id": 2580,
+      "title": "Tales from Wild Space: The Blue Brothers"
+    },
+    {
+      "id": 2583,
+      "title": "Doctor Aphra Annual 2"
+    },
+    {
+      "id": 2584,
+      "title": "Star Wars (2015) 53"
+    },
+    {
+      "id": 2586,
+      "title": "Darth Vader (2017) 21"
+    },
+    {
+      "id": 2587,
+      "title": "The Last Jedi Adaptation 6"
+    },
+    {
+      "id": 2588,
+      "title": "Star Wars: A New Hope Graphic Novel Adaptation"
+    },
+    {
+      "id": 2589,
+      "title": "Lando - Double or Nothing 5"
+    },
+    {
+      "id": 2590,
+      "title": "Star Wars (2015) 54"
+    },
+    {
+      "id": 2591,
+      "title": "Star Wars: The Last Jedi Graphic Novel Adaptation"
+    },
+    {
+      "id": 2592,
+      "title": "Chewie\u0027s Day Off"
+    },
+    {
+      "id": 2593,
+      "title": "Doctor Aphra (2016) 24"
+    },
+    {
+      "id": 2594,
+      "title": "Flight of the Falcon, Part 1: Spy Games"
+    },
+    {
+      "id": 2595,
+      "title": "Poe Dameron 31"
+    },
+    {
+      "id": 2610,
+      "title": "Star Wars (2015) 55"
+    },
+    {
+      "id": 2611,
+      "title": "Star Wars Adventures: Tales from Vader\u0027s Castle 1"
+    },
+    {
+      "id": 2613,
+      "title": "Crossing the Line"
+    },
+    {
+      "id": 2614,
+      "title": "Solo: A Star Wars Story Adaptation 1"
+    },
+    {
+      "id": 2615,
+      "title": "Star Wars Adventures: Tales from Vader\u0027s Castle 2"
+    },
+    {
+      "id": 2617,
+      "title": "Darth Vader (2017) 22"
+    },
+    {
+      "id": 2618,
+      "title": "Star Wars Adventures: Tales from Vader\u0027s Castle 3"
+    },
+    {
+      "id": 2620,
+      "title": "Doctor Aphra (2016) 25"
+    },
+    {
+      "id": 2621,
+      "title": "Star Wars Adventures: Tales from Vader\u0027s Castle 4"
+    },
+    {
+      "id": 2623,
+      "title": "An Unlikely Friendship"
+    },
+    {
+      "id": 2624,
+      "title": "Flight of the Falcon, Part 2: The Planet of Misfit Droids"
+    },
+    {
+      "id": 2625,
+      "title": "Star Wars Adventures: Tales from Vader\u0027s Castle 5"
+    },
+    {
+      "id": 2627,
+      "title": "Han Solo - Imperial Cadet 1"
+    },
+    {
+      "id": 2628,
+      "title": "Star Wars (2015) 56"
+    },
+    {
+      "id": 2630,
+      "title": "Darth Vader (2017) 23"
+    },
+    {
+      "id": 2631,
+      "title": "Doctor Aphra (2016) 26"
+    },
+    {
+      "id": 2633,
+      "title": "Solo: A Star Wars Story Adaptation 2"
+    },
+    {
+      "id": 2634,
+      "title": "Star Wars (2015) 57"
+    },
+    {
+      "id": 2636,
+      "title": "Darth Vader (2017) 24"
+    },
+    {
+      "id": 2644,
+      "title": "Age of Republic - Qui-Gon Jinn 1"
+    },
+    {
+      "id": 2645,
+      "title": "Star Wars (2015) 58"
+    },
+    {
+      "id": 2655,
+      "title": "Age of Republic - Darth Maul 1"
+    },
+    {
+      "id": 2656,
+      "title": "Doctor Aphra (2016) 27"
+    },
+    {
+      "id": 2657,
+      "title": "Han Solo - Imperial Cadet 2"
+    },
+    {
+      "id": 2661,
+      "title": "All Aces Battle Royale (comic)"
+    },
+    {
+      "id": 2662,
+      "title": "Darth Vader (2017) 25"
+    },
+    {
+      "id": 2663,
+      "title": "Flight of the Falcon, Part 3: Home Again"
+    },
+    {
+      "id": 2664,
+      "title": "Solo: A Star Wars Story Adaptation 3"
+    },
+    {
+      "id": 2672,
+      "title": "Age of Republic - Obi-Wan Kenobi 1"
+    },
+    {
+      "id": 2673,
+      "title": "Han Solo - Imperial Cadet 3"
+    },
+    {
+      "id": 2675,
+      "title": "Age of Republic - Jango Fett 1"
+    },
+    {
+      "id": 2676,
+      "title": "Star Wars (2015) 59"
+    },
+    {
+      "id": 2678,
+      "title": "501 Plus One"
+    },
+    {
+      "id": 2679,
+      "title": "Sisters"
+    },
+    {
+      "id": 2681,
+      "title": "The Weapon"
+    },
+    {
+      "id": 2684,
+      "title": "Star Wars (2015) 60"
+    },
+    {
+      "id": 2686,
+      "title": "Doctor Aphra (2016) 28"
+    },
+    {
+      "id": 2687,
+      "title": "Flight of the Falcon, Part 4: Lady and the Tramp"
+    },
+    {
+      "id": 2688,
+      "title": "Sector 7-E (comic)"
+    },
+    {
+      "id": 2689,
+      "title": "Solo: A Star Wars Story Adaptation 4"
+    },
+    {
+      "id": 2692,
+      "title": "Age of Republic - Anakin Skywalker 1"
+    },
+    {
+      "id": 2693,
+      "title": "Star Wars (2015) 61"
+    },
+    {
+      "id": 2696,
+      "title": "Age of Republic - Count Dooku 1"
+    },
+    {
+      "id": 2697,
+      "title": "Han Solo - Imperial Cadet 4"
+    },
+    {
+      "id": 2700,
+      "title": "Flight of the Falcon, Part 5: Grand Theft Falcon"
+    },
+    {
+      "id": 2701,
+      "title": "Raiders of the Lost Gundark"
+    },
+    {
+      "id": 2702,
+      "title": "Solo: A Star Wars Story Adaptation 5"
+    },
+    {
+      "id": 2705,
+      "title": "Doctor Aphra (2016) 29"
+    },
+    {
+      "id": 2709,
+      "title": "Star Wars: The Empire Strikes Back Graphic Novel Adaptation"
+    },
+    {
+      "id": 2710,
+      "title": "Age of Republic - Padm\u00E9 Amidala 1"
+    },
+    {
+      "id": 2711,
+      "title": "Star Wars (2015) 62"
+    },
+    {
+      "id": 2712,
+      "title": "Vader - Dark Visions 1"
+    },
+    {
+      "id": 2715,
+      "title": "Age of Republic - General Grievous 1"
+    },
+    {
+      "id": 2716,
+      "title": "Han Solo - Imperial Cadet 5"
+    },
+    {
+      "id": 2720,
+      "title": "Solo: A Star Wars Story Adaptation 6"
+    },
+    {
+      "id": 2721,
+      "title": "Star Wars (2015) 63"
+    },
+    {
+      "id": 2723,
+      "title": "Star Wars: Solo Graphic Novel Adaptation"
+    },
+    {
+      "id": 2724,
+      "title": "Doctor Aphra (2016) 30"
+    },
+    {
+      "id": 2725,
+      "title": "Roger Roger"
+    },
+    {
+      "id": 2726,
+      "title": "Tales from Wild Space: The Big March"
+    },
+    {
+      "id": 2727,
+      "title": "Vader - Dark Visions 2"
+    },
+    {
+      "id": 2729,
+      "title": "Solo: A Star Wars Story Adaptation 7"
+    },
+    {
+      "id": 2730,
+      "title": "Star Wars (2015) 64"
+    },
+    {
+      "id": 2732,
+      "title": "Age of Rebellion - Grand Moff Tarkin 1"
+    },
+    {
+      "id": 2733,
+      "title": "Age of Rebellion - Princess Leia 1"
+    },
+    {
+      "id": 2736,
+      "title": "Hide and Seek"
+    },
+    {
+      "id": 2737,
+      "title": "Stolen Valor"
+    },
+    {
+      "id": 2738,
+      "title": "Tales from Wild Space: The Journey"
+    },
+    {
+      "id": 2739,
+      "title": "The Long Game (Age of Rebellion)"
+    },
+    {
+      "id": 2740,
+      "title": "The Trial of Dagobah"
+    },
+    {
+      "id": 2742,
+      "title": "TIE Fighter 1"
+    },
+    {
+      "id": 2744,
+      "title": "Doctor Aphra (2016) 31"
+    },
+    {
+      "id": 2745,
+      "title": "Galaxy\u0027s Edge 1"
+    },
+    {
+      "id": 2746,
+      "title": "Vader - Dark Visions 3"
+    },
+    {
+      "id": 2749,
+      "title": "Age of Rebellion - Han Solo 1"
+    },
+    {
+      "id": 2750,
+      "title": "Star Wars (2015) 65"
+    },
+    {
+      "id": 2751,
+      "title": "Star Wars Adventures: Flight of the Falcon"
+    },
+    {
+      "id": 2753,
+      "title": "Leia Organa: Ordeal of the Princess"
+    },
+    {
+      "id": 2754,
+      "title": "Star Wars Adventures Free Comic Book Day 2019"
+    },
+    {
+      "id": 2755,
+      "title": "Age of Rebellion - Boba Fett 1"
+    },
+    {
+      "id": 2756,
+      "title": "Doctor Aphra (2016) 32"
+    },
+    {
+      "id": 2757,
+      "title": "Swoop Racers"
+    },
+    {
+      "id": 2758,
+      "title": "Tales from Wild Space: The Heist"
+    },
+    {
+      "id": 2760,
+      "title": "Age of Rebellion - Lando Calrissian 1"
+    },
+    {
+      "id": 2761,
+      "title": "Star Wars (2015) 66"
+    },
+    {
+      "id": 2762,
+      "title": "The Recruit, Part 1"
+    },
+    {
+      "id": 2763,
+      "title": "TIE Fighter 2"
+    },
+    {
+      "id": 2766,
+      "title": "Age of Rebellion - Jabba the Hutt 1"
+    },
+    {
+      "id": 2767,
+      "title": "Galaxy\u0027s Edge 2"
+    },
+    {
+      "id": 2770,
+      "title": "Vader - Dark Visions 4"
+    },
+    {
+      "id": 2779,
+      "title": "A Matter Of Perception"
+    },
+    {
+      "id": 2780,
+      "title": "Age of Rebellion - Luke Skywalker 1"
+    },
+    {
+      "id": 2781,
+      "title": "Tales from Wild Space: A Tauntaun Tail"
+    },
+    {
+      "id": 2787,
+      "title": "Vader - Dark Visions 5"
+    },
+    {
+      "id": 2789,
+      "title": "Doctor Aphra (2016) 33"
+    },
+    {
+      "id": 2790,
+      "title": "Star Wars (2015) 67"
+    },
+    {
+      "id": 2791,
+      "title": "TIE Fighter 3"
+    },
+    {
+      "id": 2793,
+      "title": "Age of Rebellion - Darth Vader 1"
+    },
+    {
+      "id": 2794,
+      "title": "Galaxy\u0027s Edge 3"
+    },
+    {
+      "id": 2796,
+      "title": "A Race for Answers"
+    },
+    {
+      "id": 2797,
+      "title": "Age of Resistance - Finn 1"
+    },
+    {
+      "id": 2798,
+      "title": "Tales from Wild Space: Majordomo, Major Problems"
+    },
+    {
+      "id": 2799,
+      "title": "Target Vader 1"
+    },
+    {
+      "id": 2801,
+      "title": "Age of Resistance - Captain Phasma 1"
+    },
+    {
+      "id": 2802,
+      "title": "Star Wars (2015) 68"
+    },
+    {
+      "id": 2804,
+      "title": "Doctor Aphra (2016) 34"
+    },
+    {
+      "id": 2805,
+      "title": "The Recruit, Part 2"
+    },
+    {
+      "id": 2806,
+      "title": "TIE Fighter 4"
+    },
+    {
+      "id": 2808,
+      "title": "Star Wars (2015) 69"
+    },
+    {
+      "id": 2809,
+      "title": "Galaxy\u0027s Edge 4"
+    },
+    {
+      "id": 2810,
+      "title": "Maz\u0027s Scoundrels"
+    },
+    {
+      "id": 2811,
+      "title": "Robot Resistance"
+    },
+    {
+      "id": 2812,
+      "title": "The Bridge"
+    },
+    {
+      "id": 2823,
+      "title": "Star Wars (2015) 70"
+    },
+    {
+      "id": 2824,
+      "title": "Hare-Brained Heist"
+    },
+    {
+      "id": 2825,
+      "title": "So Much More"
+    },
+    {
+      "id": 2826,
+      "title": "Target Vader 2"
+    },
+    {
+      "id": 2828,
+      "title": "Doctor Aphra (2016) 35"
+    },
+    {
+      "id": 2829,
+      "title": "Kidnapped!"
+    },
+    {
+      "id": 2830,
+      "title": "Tales from Wild Space: Win/Lose"
+    },
+    {
+      "id": 2831,
+      "title": "TIE Fighter 5"
+    },
+    {
+      "id": 2833,
+      "title": "Age of Resistance - General Hux 1"
+    },
+    {
+      "id": 2834,
+      "title": "Age of Resistance - Poe Dameron 1"
+    },
+    {
+      "id": 2835,
+      "title": "Galaxy\u0027s Edge 5"
+    },
+    {
+      "id": 2836,
+      "title": "Red Four (comic)"
+    },
+    {
+      "id": 2837,
+      "title": "Jedi Fallen Order - Dark Temple 1"
+    },
+    {
+      "id": 2838,
+      "title": "Star Wars (2015) 71"
+    },
+    {
+      "id": 2839,
+      "title": "Age of Resistance - Supreme Leader Snoke 1"
+    },
+    {
+      "id": 2840,
+      "title": "Star Wars Adventures (2017) 25"
+    },
+    {
+      "id": 2841,
+      "title": "Age of Resistance - Rey 1"
+    },
+    {
+      "id": 2842,
+      "title": "Age of Resistance - Rose Tico 1"
+    },
+    {
+      "id": 2843,
+      "title": "Doctor Aphra (2016) 36"
+    },
+    {
+      "id": 2844,
+      "title": "The Triple Dark (comic)"
+    },
+    {
+      "id": 2845,
+      "title": "Age of Resistance - Kylo Ren 1"
+    },
+    {
+      "id": 2846,
+      "title": "Jedi Fallen Order - Dark Temple 2"
+    },
+    {
+      "id": 2847,
+      "title": "Life Lessons"
+    },
+    {
+      "id": 2848,
+      "title": "Tales from Wild Space: Alone in the Dark"
+    },
+    {
+      "id": 2849,
+      "title": "Target Vader 3"
+    },
+    {
+      "id": 2852,
+      "title": "Doctor Aphra (2016) 37"
+    },
+    {
+      "id": 2853,
+      "title": "Star Wars (2015) 72"
+    },
+    {
+      "id": 2854,
+      "title": "Star Wars Adventures: Return to Vader\u0027s Castle 1"
+    },
+    {
+      "id": 2859,
+      "title": "Allegiance 1"
+    },
+    {
+      "id": 2860,
+      "title": "Jedi Fallen Order - Dark Temple 3"
+    },
+    {
+      "id": 2861,
+      "title": "Star Wars Adventures: Return to Vader\u0027s Castle 2"
+    },
+    {
+      "id": 2862,
+      "title": "Target Vader 4"
+    },
+    {
+      "id": 2864,
+      "title": "Allegiance 2"
+    },
+    {
+      "id": 2865,
+      "title": "Star Wars Adventures: Return to Vader\u0027s Castle 3"
+    },
+    {
+      "id": 2867,
+      "title": "Star Wars: Return of the Jedi Graphic Novel Adaptation"
+    },
+    {
+      "id": 2869,
+      "title": "Allegiance 3"
+    },
+    {
+      "id": 2870,
+      "title": "Star Wars (2015) 73"
+    },
+    {
+      "id": 2871,
+      "title": "Star Wars Adventures: Return to Vader\u0027s Castle 4"
+    },
+    {
+      "id": 2873,
+      "title": "Allegiance 4"
+    },
+    {
+      "id": 2874,
+      "title": "Doctor Aphra Annual 3"
+    },
+    {
+      "id": 2875,
+      "title": "Ghosts of Kashyyyk, Part 1"
+    },
+    {
+      "id": 2876,
+      "title": "Secret Agent Droids, Part 1"
+    },
+    {
+      "id": 2877,
+      "title": "Star Wars Adventures: Return to Vader\u0027s Castle 5"
+    },
+    {
+      "id": 2880,
+      "title": "Doctor Aphra (2016) 38"
+    },
+    {
+      "id": 2883,
+      "title": "Jedi Fallen Order - Dark Temple 4"
+    },
+    {
+      "id": 2884,
+      "title": "Star Wars (2015) 74"
+    },
+    {
+      "id": 2885,
+      "title": "Target Vader 5"
+    },
+    {
+      "id": 2889,
+      "title": "Fuel for the Fire (comic)"
+    },
+    {
+      "id": 2890,
+      "title": "Star Wars (2015) 75"
+    },
+    {
+      "id": 2894,
+      "title": "Doctor Aphra (2016) 39"
+    },
+    {
+      "id": 2895,
+      "title": "Ghosts of Kashyyyk, Part 2"
+    },
+    {
+      "id": 2896,
+      "title": "Secret Agent Droids, Part 2"
+    },
+    {
+      "id": 2899,
+      "title": "Jedi Fallen Order - Dark Temple 5"
+    },
+    {
+      "id": 2900,
+      "title": "Star Wars Rebels (webcomic)"
+    },
+    {
+      "id": 2903,
+      "title": "Doctor Aphra (2016) 40"
+    },
+    {
+      "id": 2904,
+      "title": "Target Vader 6"
+    },
+    {
+      "id": 2907,
+      "title": "An Echo of Victory"
+    },
+    {
+      "id": 2908,
+      "title": "Epilogue"
+    },
+    {
+      "id": 2909,
+      "title": "Ghosts of Kashyyyk, Part 3"
+    },
+    {
+      "id": 2910,
+      "title": "In Service to the Empire"
+    },
+    {
+      "id": 2911,
+      "title": "Secret Agent Droids, Part 3"
+    },
+    {
+      "id": 2913,
+      "title": "The Rise of Kylo Ren 1"
+    },
+    {
+      "id": 2914,
+      "title": "Two Sides to Every Sortie"
+    },
+    {
+      "id": 2919,
+      "title": "Star Wars (2020) 1"
+    },
+    {
+      "id": 2921,
+      "title": "The Rise of Kylo Ren 2"
+    },
+    {
+      "id": 2924,
+      "title": "Big Inside"
+    },
+    {
+      "id": 2925,
+      "title": "I, Droid"
+    },
+    {
+      "id": 2926,
+      "title": "The Starship Graveyard"
+    },
+    {
+      "id": 2927,
+      "title": "The Tale of Lugubrious Mote"
+    },
+    {
+      "id": 2930,
+      "title": "Loyalty Test"
+    },
+    {
+      "id": 2931,
+      "title": "Star Wars (2020) 2"
+    },
+    {
+      "id": 2932,
+      "title": "The Lost Stories, Part 1"
+    },
+    {
+      "id": 2933,
+      "title": "Darth Vader (2020) 1"
+    },
+    {
+      "id": 2935,
+      "title": "The Rise of Kylo Ren 3"
+    },
+    {
+      "id": 2937,
+      "title": "Star Wars (2020) 3"
+    },
+    {
+      "id": 2940,
+      "title": "Bounty Hunters 1"
+    },
+    {
+      "id": 2941,
+      "title": "Darth Vader (2020) 2"
+    },
+    {
+      "id": 2942,
+      "title": "The Rise of Kylo Ren 4"
+    },
+    {
+      "id": 2948,
+      "title": "Squad Goals"
+    },
+    {
+      "id": 2949,
+      "title": "Star Wars (2020) 4"
+    },
+    {
+      "id": 2950,
+      "title": "The Lost Stories, Part 2"
+    },
+    {
+      "id": 2953,
+      "title": "Bounty Hunters 2"
+    },
+    {
+      "id": 2967,
+      "title": "Doctor Aphra (2020) 1"
+    },
+    {
+      "id": 2969,
+      "title": "Star Wars Adventures: The Clone Wars \u2013 Battle Tales 1"
+    },
+    {
+      "id": 2976,
+      "title": "Bounty Hunters 3"
+    },
+    {
+      "id": 2977,
+      "title": "Star Wars Adventures: The Clone Wars \u2013 Battle Tales 2"
+    },
+    {
+      "id": 2979,
+      "title": "The Battle for Horizon Base"
+    },
+    {
+      "id": 2980,
+      "title": "The Lost Stories, Part 3"
+    },
+    {
+      "id": 2982,
+      "title": "Doctor Aphra (2020) 2"
+    },
+    {
+      "id": 2990,
+      "title": "Darth Vader (2020) 3"
+    },
+    {
+      "id": 2992,
+      "title": "Star Wars (2020) 5"
+    },
+    {
+      "id": 2993,
+      "title": "Star Wars Adventures: The Clone Wars \u2013 Battle Tales 3"
+    },
+    {
+      "id": 2994,
+      "title": "Darth Vader (2020) 4"
+    },
+    {
+      "id": 2995,
+      "title": "Bounty Hunters 4"
+    },
+    {
+      "id": 3008,
+      "title": "Doctor Aphra (2020) 3"
+    },
+    {
+      "id": 3009,
+      "title": "Star Wars Adventures: The Clone Wars \u2013 Battle Tales 4"
+    },
+    {
+      "id": 3021,
+      "title": "Darth Vader (2020) 5"
+    },
+    {
+      "id": 3022,
+      "title": "Star Wars (2020) 6"
+    },
+    {
+      "id": 3023,
+      "title": "Bounty Hunters 5"
+    },
+    {
+      "id": 3024,
+      "title": "Doctor Aphra (2020) 4"
+    },
+    {
+      "id": 3025,
+      "title": "Star Wars Adventures: The Clone Wars \u2013 Battle Tales 5"
+    },
+    {
+      "id": 3028,
+      "title": "Star Wars (2020) 7"
+    },
+    {
+      "id": 3029,
+      "title": "Tales of Villainy: Invasion of Echo Base"
+    },
+    {
+      "id": 3030,
+      "title": "The Obstacle Course, Part 1"
+    },
+    {
+      "id": 3035,
+      "title": "Darth Vader (2020) 6"
+    },
+    {
+      "id": 3036,
+      "title": "Bounty Hunters 6"
+    },
+    {
+      "id": 3038,
+      "title": "Doctor Aphra (2020) 5"
+    },
+    {
+      "id": 3042,
+      "title": "Star Wars (2020) 8"
+    },
+    {
+      "id": 3043,
+      "title": "Star Wars Adventures: Shadow of Vader\u0027s Castle"
+    },
+    {
+      "id": 3084,
+      "title": "Darth Vader (2020) 7"
+    },
+    {
+      "id": 3086,
+      "title": "A Rebel Bounty"
+    },
+    {
+      "id": 3087,
+      "title": "Bounty Hunters 7"
+    },
+    {
+      "id": 3088,
+      "title": "Rabbit Hunt"
+    },
+    {
+      "id": 3091,
+      "title": "Doctor Aphra (2020) 6"
+    },
+    {
+      "id": 3092,
+      "title": "Tales of Villainy: Follow and Lead"
+    },
+    {
+      "id": 3093,
+      "title": "The Obstacle Course, Part 2"
+    },
+    {
+      "id": 3098,
+      "title": "The Clone Wars: Season 7: Volume 1"
+    },
+    {
+      "id": 3099,
+      "title": "Star Wars (2020) 9"
+    },
+    {
+      "id": 3101,
+      "title": "Darth Vader (2020) 8"
+    },
+    {
+      "id": 3105,
+      "title": "Bounty Hunters 8"
+    },
+    {
+      "id": 3114,
+      "title": "Star Wars (2020) 10"
+    },
+    {
+      "id": 3117,
+      "title": "The High Republic (2021) 1"
+    },
+    {
+      "id": 3118,
+      "title": "Darth Vader (2020) 9"
+    },
+    {
+      "id": 3119,
+      "title": "Doctor Aphra (2020) 7"
+    },
+    {
+      "id": 3120,
+      "title": "Bounty Hunters 9"
+    },
+    {
+      "id": 3122,
+      "title": "Life Day (comic)"
+    },
+    {
+      "id": 3123,
+      "title": "Star Wars (2020) 11"
+    },
+    {
+      "id": 3124,
+      "title": "Tales of Villainy: The Hostage"
+    },
+    {
+      "id": 3125,
+      "title": "The High Republic (2021) 2"
+    },
+    {
+      "id": 3126,
+      "title": "The High Republic Adventures (2021) 1"
+    },
+    {
+      "id": 3128,
+      "title": "Darth Vader (2020) 10"
+    },
+    {
+      "id": 3130,
+      "title": "Star Wars: The Rise of Skywalker Graphic Novel Adaptation"
+    },
+    {
+      "id": 3131,
+      "title": "The High Republic (2021) 3"
+    },
+    {
+      "id": 3132,
+      "title": "The High Republic Adventures (2021) 2"
+    },
+    {
+      "id": 3133,
+      "title": "Star Wars (2020) 12"
+    },
+    {
+      "id": 3134,
+      "title": "Bounty Hunters 10"
+    },
+    {
+      "id": 3135,
+      "title": "Doctor Aphra (2020) 8"
+    },
+    {
+      "id": 3136,
+      "title": "Life Day Part 2"
+    },
+    {
+      "id": 3137,
+      "title": "Tales of Villainy: Credits"
+    },
+    {
+      "id": 3140,
+      "title": "The High Republic (2021) 4"
+    },
+    {
+      "id": 3141,
+      "title": "The High Republic Adventures (2021) 3"
+    },
+    {
+      "id": 3143,
+      "title": "Bounty Hunters 11"
+    },
+    {
+      "id": 3144,
+      "title": "Doctor Aphra (2020) 9"
+    },
+    {
+      "id": 3146,
+      "title": "Darth Vader (2020) 11"
+    },
+    {
+      "id": 3148,
+      "title": "The High Republic Adventures (2021) 4"
+    },
+    {
+      "id": 3149,
+      "title": "War of the Bounty Hunters Alpha 1"
+    },
+    {
+      "id": 3151,
+      "title": "Star Wars (2020) 13"
+    },
+    {
+      "id": 3152,
+      "title": "The High Republic (2021) 5"
+    },
+    {
+      "id": 3154,
+      "title": "Bounty Hunters 12"
+    },
+    {
+      "id": 3156,
+      "title": "Darth Vader (2020) 12"
+    },
+    {
+      "id": 3157,
+      "title": "Doctor Aphra (2020) 10"
+    },
+    {
+      "id": 3159,
+      "title": "War of the Bounty Hunters 1"
+    },
+    {
+      "id": 3161,
+      "title": "Bounty Hunters 13"
+    },
+    {
+      "id": 3163,
+      "title": "Star Wars (2020) 14"
+    },
+    {
+      "id": 3164,
+      "title": "The High Republic Adventures (2021) 5"
+    },
+    {
+      "id": 3167,
+      "title": "Darth Vader (2020) 13"
+    },
+    {
+      "id": 3168,
+      "title": "Tales of Villainy: The Short Goodbye"
+    },
+    {
+      "id": 3169,
+      "title": "The Incident, Part 1"
+    },
+    {
+      "id": 3173,
+      "title": "Doctor Aphra (2020) 11"
+    },
+    {
+      "id": 3174,
+      "title": "The High Republic (2021) 6"
+    },
+    {
+      "id": 3176,
+      "title": "Bounty Hunters 14"
+    },
+    {
+      "id": 3177,
+      "title": "Tales of Villainy: The Gaze Electric"
+    },
+    {
+      "id": 3178,
+      "title": "The Incident, Part 2"
+    },
+    {
+      "id": 3180,
+      "title": "Doctor Aphra (2020) 12"
+    },
+    {
+      "id": 3181,
+      "title": "War of the Bounty Hunters 2"
+    },
+    {
+      "id": 3183,
+      "title": "Darth Vader (2020) 14"
+    },
+    {
+      "id": 3184,
+      "title": "The High Republic Adventures (2021) 6"
+    },
+    {
+      "id": 3185,
+      "title": "War of the Bounty Hunters \u2013 Jabba the Hutt 1"
+    },
+    {
+      "id": 3188,
+      "title": "Star Wars (2020) 15"
+    },
+    {
+      "id": 3189,
+      "title": "Tales of Villainy: The Crimson Corsair and the Crime Lords of the Barren Rim"
+    },
+    {
+      "id": 3190,
+      "title": "The High Republic (2021) 7"
+    },
+    {
+      "id": 3191,
+      "title": "The Princess and the Bog, A Twin Tale, Part 1"
+    },
+    {
+      "id": 3193,
+      "title": "Bounty Hunters 15"
+    },
+    {
+      "id": 3194,
+      "title": "War of the Bounty Hunters \u2013 4-LOM \u0026 Zuckuss 1"
+    },
+    {
+      "id": 3196,
+      "title": "Guardians of the Whills: The Manga"
+    },
+    {
+      "id": 3197,
+      "title": "The High Republic (2021) 8"
+    },
+    {
+      "id": 3198,
+      "title": "The High Republic Adventures \u2014 The Monster of Temple Peak 1"
+    },
+    {
+      "id": 3200,
+      "title": "The High Republic Adventures Free Comic Book Day 2021"
+    },
+    {
+      "id": 3201,
+      "title": "Star Wars (2020) 16"
+    },
+    {
+      "id": 3202,
+      "title": "Tales of Villainy: Trade Relations (Star Wars Adventures 8)"
+    },
+    {
+      "id": 3203,
+      "title": "The High Republic Adventures (2021) 7"
+    },
+    {
+      "id": 3204,
+      "title": "The Princess and the Bog, A Twin Tale, Part 2"
+    },
+    {
+      "id": 3205,
+      "title": "War of the Bounty Hunters 3"
+    },
+    {
+      "id": 3206,
+      "title": "Darth Vader (2020) 15"
+    },
+    {
+      "id": 3207,
+      "title": "Doctor Aphra (2020) 13"
+    },
+    {
+      "id": 3209,
+      "title": "The High Republic (2021) 9"
+    },
+    {
+      "id": 3210,
+      "title": "The High Republic Adventures (2021) 8"
+    },
+    {
+      "id": 3214,
+      "title": "Star Wars: The High Republic: The Edge of Balance, Vol. 1"
+    },
+    {
+      "id": 3215,
+      "title": "The Banchiians"
+    },
+    {
+      "id": 3221,
+      "title": "Doctor Aphra (2020) 14"
+    },
+    {
+      "id": 3222,
+      "title": "Separation Anxiety Part One"
+    },
+    {
+      "id": 3223,
+      "title": "Tales of Villainy: Trade Relations (Star Wars Adventures 9)"
+    },
+    {
+      "id": 3224,
+      "title": "War of the Bounty Hunters 4"
+    },
+    {
+      "id": 3225,
+      "title": "Darth Vader (2020) 16"
+    },
+    {
+      "id": 3228,
+      "title": "The High Republic Adventures \u2014 The Monster of Temple Peak 2"
+    },
+    {
+      "id": 3229,
+      "title": "War of the Bounty Hunters \u2013 Boushh 1"
+    },
+    {
+      "id": 3230,
+      "title": "Bounty Hunters 16"
+    },
+    {
+      "id": 3231,
+      "title": "Star Wars Adventures: Ghosts of Vader\u0027s Castle 1"
+    },
+    {
+      "id": 3232,
+      "title": "Separation Anxiety, Part Two"
+    },
+    {
+      "id": 3233,
+      "title": "Star Wars (2020) 17"
+    },
+    {
+      "id": 3234,
+      "title": "Star Wars Adventures: Ghosts of Vader\u0027s Castle 2"
+    },
+    {
+      "id": 3235,
+      "title": "Tales of Villainy: Grave Digger"
+    },
+    {
+      "id": 3237,
+      "title": "Star Wars Adventures: Ghosts of Vader\u0027s Castle 3"
+    },
+    {
+      "id": 3238,
+      "title": "The High Republic Adventures (2021) 9"
+    },
+    {
+      "id": 3239,
+      "title": "Doctor Aphra (2020) 15"
+    },
+    {
+      "id": 3240,
+      "title": "Star Wars Adventures: Ghosts of Vader\u0027s Castle 4"
+    },
+    {
+      "id": 3241,
+      "title": "The High Republic: Trail of Shadows 1"
+    },
+    {
+      "id": 3242,
+      "title": "War of the Bounty Hunters 5"
+    },
+    {
+      "id": 3245,
+      "title": "Squad Goals, Part One"
+    },
+    {
+      "id": 3246,
+      "title": "Star Wars Adventures: Ghosts of Vader\u0027s Castle 5"
+    },
+    {
+      "id": 3247,
+      "title": "Tales of Villainy: Done Dirty"
+    },
+    {
+      "id": 3248,
+      "title": "The High Republic (2021) 10"
+    },
+    {
+      "id": 3251,
+      "title": "Darth Vader (2020) 17"
+    },
+    {
+      "id": 3252,
+      "title": "The High Republic Adventures \u2014 The Monster of Temple Peak 3"
+    },
+    {
+      "id": 3253,
+      "title": "War of the Bounty Hunters \u2013 IG-88 1"
+    },
+    {
+      "id": 3256,
+      "title": "Bounty Hunters 17"
+    },
+    {
+      "id": 3257,
+      "title": "Star Wars (2020) 18"
+    },
+    {
+      "id": 3260,
+      "title": "The High Republic (2021) 11"
+    },
+    {
+      "id": 3264,
+      "title": "Doctor Aphra (2020) 16"
+    },
+    {
+      "id": 3265,
+      "title": "The High Republic Adventures \u2014 The Monster of Temple Peak 4"
+    },
+    {
+      "id": 3266,
+      "title": "The High Republic Adventures (2021) 10"
+    },
+    {
+      "id": 3269,
+      "title": "Deck the Halls"
+    },
+    {
+      "id": 3270,
+      "title": "Gift of Light"
+    },
+    {
+      "id": 3271,
+      "title": "Life Day 1"
+    },
+    {
+      "id": 3272,
+      "title": "Paid on Delivery"
+    },
+    {
+      "id": 3273,
+      "title": "Squad Goals, Part 2"
+    },
+    {
+      "id": 3274,
+      "title": "Tales of Villainy: Give \u0026 Take"
+    },
+    {
+      "id": 3275,
+      "title": "The Coin"
+    },
+    {
+      "id": 3276,
+      "title": "The High Republic: Trail of Shadows 2"
+    },
+    {
+      "id": 3277,
+      "title": "The Hoojib Menace"
+    },
+    {
+      "id": 3278,
+      "title": "Bounty Hunters 18"
+    },
+    {
+      "id": 3279,
+      "title": "Darth Vader (2020) 18"
+    },
+    {
+      "id": 3280,
+      "title": "The High Republic Adventures (2021) 11"
+    },
+    {
+      "id": 3281,
+      "title": "Crimson Reign 1"
+    },
+    {
+      "id": 3282,
+      "title": "Star Wars (2020) 19"
+    },
+    {
+      "id": 3284,
+      "title": "Crash and the Crew Do What They Do"
+    },
+    {
+      "id": 3285,
+      "title": "First Mission"
+    },
+    {
+      "id": 3286,
+      "title": "No Stone Unturned"
+    },
+    {
+      "id": 3287,
+      "title": "Set For Life"
+    },
+    {
+      "id": 3288,
+      "title": "The Haul"
+    },
+    {
+      "id": 3289,
+      "title": "The High Republic (2021) 12"
+    },
+    {
+      "id": 3290,
+      "title": "Darth Vader (2020) 19"
+    },
+    {
+      "id": 3291,
+      "title": "The High Republic: Trail of Shadows 3"
+    },
+    {
+      "id": 3292,
+      "title": "Bounty Hunters 19"
+    },
+    {
+      "id": 3293,
+      "title": "Repair Stop"
+    },
+    {
+      "id": 3294,
+      "title": "Tales of Villainy: A Last Chapter"
+    },
+    {
+      "id": 3300,
+      "title": "Doctor Aphra (2020) 17"
+    },
+    {
+      "id": 3303,
+      "title": "Bounty Hunters 20"
+    },
+    {
+      "id": 3304,
+      "title": "Star Wars (2020) 20"
+    },
+    {
+      "id": 3306,
+      "title": "The High Republic Adventures (2021) 12"
+    },
+    {
+      "id": 3307,
+      "title": "The High Republic: Eye of the Storm 1"
+    },
+    {
+      "id": 3308,
+      "title": "Doctor Aphra (2020) 18"
+    },
+    {
+      "id": 3310,
+      "title": "The High Republic (2021) 13"
+    },
+    {
+      "id": 3311,
+      "title": "The High Republic Adventures: Galactic Bake-Off Spectacular"
+    },
+    {
+      "id": 3313,
+      "title": "The High Republic: Trail of Shadows 4"
+    },
+    {
+      "id": 3316,
+      "title": "Crimson Reign 2"
+    },
+    {
+      "id": 3317,
+      "title": "Halcyon Legacy 1"
+    },
+    {
+      "id": 3319,
+      "title": "The High Republic (2021) 14"
+    },
+    {
+      "id": 3320,
+      "title": "Darth Vader (2020) 20"
+    },
+    {
+      "id": 3321,
+      "title": "Repair Stop, Part II"
+    },
+    {
+      "id": 3322,
+      "title": "Tales of Villainy: A Very Nihil Interlude"
+    },
+    {
+      "id": 3324,
+      "title": "The High Republic: Trail of Shadows 5"
+    },
+    {
+      "id": 3327,
+      "title": "Star Wars: The High Republic: The Edge of Balance, Vol. 2"
+    },
+    {
+      "id": 3328,
+      "title": "The High Republic Adventures (2021) 13"
+    },
+    {
+      "id": 3330,
+      "title": "Star Wars (2020) 21"
+    },
+    {
+      "id": 3331,
+      "title": "The High Republic (2021) 15"
+    },
+    {
+      "id": 3332,
+      "title": "The High Republic: Eye of the Storm 2"
+    },
+    {
+      "id": 3333,
+      "title": "Crimson Reign 3"
+    },
+    {
+      "id": 3334,
+      "title": "Han Solo \u0026 Chewbacca 1"
+    },
+    {
+      "id": 3336,
+      "title": "Halcyon Legacy 2"
+    },
+    {
+      "id": 3337,
+      "title": "Darth Vader (2020) 21"
+    },
+    {
+      "id": 3338,
+      "title": "Doctor Aphra (2020) 19"
+    },
+    {
+      "id": 3339,
+      "title": "Bounty Hunters 21"
+    },
+    {
+      "id": 3341,
+      "title": "Bounty Hunters 22"
+    },
+    {
+      "id": 3344,
+      "title": "Darth Vader (2020) 22"
+    },
+    {
+      "id": 3345,
+      "title": "Star Wars (2020) 22"
+    },
+    {
+      "id": 3350,
+      "title": "Crimson Reign 4"
+    },
+    {
+      "id": 3352,
+      "title": "Obi-Wan 1"
+    },
+    {
+      "id": 3353,
+      "title": "Star Wars (2020) 23"
+    },
+    {
+      "id": 3355,
+      "title": "Halcyon Legacy 3"
+    },
+    {
+      "id": 3356,
+      "title": "Doctor Aphra (2020) 20"
+    },
+    {
+      "id": 3357,
+      "title": "Han Solo \u0026 Chewbacca 2"
+    },
+    {
+      "id": 3360,
+      "title": "Bounty Hunters 23"
+    },
+    {
+      "id": 3361,
+      "title": "Darth Vader (2020) 23"
+    },
+    {
+      "id": 3375,
+      "title": "Star Wars (2020) 24"
+    },
+    {
+      "id": 3376,
+      "title": "Bounty Hunters 24"
+    },
+    {
+      "id": 3378,
+      "title": "Crimson Reign 5"
+    },
+    {
+      "id": 3381,
+      "title": "Darth Vader (2020) 24"
+    },
+    {
+      "id": 3382,
+      "title": "Doctor Aphra (2020) 21"
+    },
+    {
+      "id": 3383,
+      "title": "Han Solo \u0026 Chewbacca 3"
+    },
+    {
+      "id": 3384,
+      "title": "Obi-Wan 2"
+    },
+    {
+      "id": 3385,
+      "title": "Halcyon Legacy 4"
+    },
+    {
+      "id": 3386,
+      "title": "Bounty Hunters 25"
+    },
+    {
+      "id": 3387,
+      "title": "The Mandalorian 1"
+    },
+    {
+      "id": 3388,
+      "title": "A Eulogy for Snap"
+    },
+    {
+      "id": 3389,
+      "title": "Darth Vader (2020) 25"
+    },
+    {
+      "id": 3390,
+      "title": "Han Solo \u0026 Chewbacca 4"
+    },
+    {
+      "id": 3391,
+      "title": "See You Around, Kid"
+    },
+    {
+      "id": 3392,
+      "title": "The Lesson (Darth Vader)"
+    },
+    {
+      "id": 3393,
+      "title": "The Lesson (Obi-Wan \u0026 Anakin)"
+    },
+    {
+      "id": 3395,
+      "title": "Doctor Aphra (2020) 22"
+    },
+    {
+      "id": 3396,
+      "title": "Obi-Wan 3"
+    },
+    {
+      "id": 3398,
+      "title": "Halcyon Legacy 5"
+    },
+    {
+      "id": 3399,
+      "title": "Bounty Hunters 26"
+    },
+    {
+      "id": 3400,
+      "title": "Han Solo \u0026 Chewbacca 5"
+    },
+    {
+      "id": 3402,
+      "title": "Star Wars (2020) 26"
+    },
+    {
+      "id": 3403,
+      "title": "The Mandalorian 2"
+    },
+    {
+      "id": 3404,
+      "title": "Darth Vader (2020) 26"
+    },
+    {
+      "id": 3405,
+      "title": "Doctor Aphra (2020) 23"
+    },
+    {
+      "id": 3406,
+      "title": "Hyperspace Stories 1"
+    },
+    {
+      "id": 3407,
+      "title": "Obi-Wan 4"
+    },
+    {
+      "id": 3408,
+      "title": "Star Wars (2020) 27"
+    }
+  ]
+}

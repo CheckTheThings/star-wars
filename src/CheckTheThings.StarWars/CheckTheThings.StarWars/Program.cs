@@ -33,8 +33,10 @@ namespace CheckTheThings.StarWars
         private static async Task AddCanonLists(List<Media> updatedMedia, ListGenerator listGenerator)
         {
             var canonMedia = updatedMedia.Where(x => x.IsCanon()).ToList();
+            await listGenerator.CreateList("Comics (Canon)", canonMedia.Where(x => x.IsComic()));
             await listGenerator.CreateList("Movies (Canon)", canonMedia.Where(x => x.IsMovie()));
             await listGenerator.CreateList("Novels (Canon)", canonMedia.Where(x => x.IsNovel()));
+            await listGenerator.CreateList("Short Stories (Canon)", canonMedia.Where(x => x.IsShortStory()));
         }
 
         static async Task<List<Todo>> ReadTodosFromJsonAsync(string fileName)
