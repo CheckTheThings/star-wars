@@ -1,42 +1,42 @@
 {
-  "Id": 1,
-  "Title": "Skywalker Saga",
-  "Items": [
+  "id": 1,
+  "title": "Skywalker Saga",
+  "items": [
     {
-      "Id": 5,
-      "Title": "Star Wars: Episode IV A New Hope"
+      "id": 700,
+      "title": "Star Wars: Episode I The Phantom Menace"
     },
     {
-      "Id": 61,
-      "Title": "Star Wars: Episode V The Empire Strikes Back"
+      "id": 907,
+      "title": "Star Wars: Episode II Attack of the Clones"
     },
     {
-      "Id": 125,
-      "Title": "Star Wars: Episode VI Return of the Jedi"
+      "id": 1172,
+      "title": "Star Wars: Episode III Revenge of the Sith"
     },
     {
-      "Id": 700,
-      "Title": "Star Wars: Episode I The Phantom Menace"
+      "id": 5,
+      "title": "Star Wars: Episode IV A New Hope"
     },
     {
-      "Id": 907,
-      "Title": "Star Wars: Episode II Attack of the Clones"
+      "id": 61,
+      "title": "Star Wars: Episode V The Empire Strikes Back"
     },
     {
-      "Id": 1172,
-      "Title": "Star Wars: Episode III Revenge of the Sith"
+      "id": 125,
+      "title": "Star Wars: Episode VI Return of the Jedi"
     },
     {
-      "Id": 2089,
-      "Title": "Star Wars: Episode VII The Force Awakens"
+      "id": 2048,
+      "title": "Star Wars: Episode VII The Force Awakens"
     },
     {
-      "Id": 2468,
-      "Title": "Star Wars: Episode VIII The Last Jedi"
+      "id": 2432,
+      "title": "Star Wars: Episode VIII The Last Jedi"
     },
     {
-      "Id": 2949,
-      "Title": "Star Wars: Episode IX The Rise of Skywalker"
+      "id": 2915,
+      "title": "Star Wars: Episode IX The Rise of Skywalker"
     }
   ]
 }

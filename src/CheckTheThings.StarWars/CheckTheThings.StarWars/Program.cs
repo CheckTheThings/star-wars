@@ -9,7 +9,6 @@ namespace CheckTheThings.StarWars
 
         private static async Task Main(string[] args)
         {
-
             var todos = await ReadTodosFromJsonAsync(TodosFileName);
             int maxId = todos.Any() ? todos.Max(x => x.Id) : 0;
 
@@ -61,6 +60,7 @@ namespace CheckTheThings.StarWars
                     return result;
                 });
             updatedMedia = updatedMedia
+                .Where(x => x.ReleaseDate != null)
                 .OrderBy(x => x.ReleaseDate)
                 .ThenBy(x => x.Name);
             return updatedMedia;

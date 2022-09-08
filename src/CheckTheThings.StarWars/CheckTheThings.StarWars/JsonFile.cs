@@ -22,7 +22,7 @@ namespace CheckTheThings.StarWars
                 return null;
 
             using var stream = File.OpenRead(fileName);
-            return await JsonSerializer.DeserializeAsync<Checklist>(stream);
+            return await JsonSerializer.DeserializeAsync<Checklist>(stream, JsonSerializerOptions);
         }
 
         public static async Task WriteAsync<T>(string fileName, object value)
