@@ -5,7 +5,7 @@ namespace CheckTheThings.StarWars
     public static class JsonFile
     {
         public const string OutputDirectory = @"..\..\..\..\..\..\data";
-        private static readonly JsonSerializerOptions JsonSerializerOptions = new() { WriteIndented = true };
+        public static readonly JsonSerializerOptions JsonSerializerOptions = new() { WriteIndented = true, PropertyNamingPolicy = JsonNamingPolicy.CamelCase };
 
         public static async Task<List<T>> ReadAsync<T>(string fileName)
         {

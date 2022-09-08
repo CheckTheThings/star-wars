@@ -5,10 +5,7 @@ namespace CheckTheThings.StarWars
 {
     internal class Program
     {
-        public const string OutputDirectory = @"..\..\..\..\..\..\data";
-        const string TodosFileName = @$"{OutputDirectory}\todos.json";
-
-        public static readonly JsonSerializerOptions JsonSerializerOptions = new() { WriteIndented = true };
+        const string TodosFileName = @$"{JsonFile.OutputDirectory}\todos.json";
 
         private static async Task Main(string[] args)
         {
@@ -24,7 +21,7 @@ namespace CheckTheThings.StarWars
                             select new Todo(GetNextTodoId(), m.Title, m.Link)).ToList();
 
             todos = todos.Union(newTodos).ToList();
-            await SaveTodosJsonAsync(TodosFileName, todos, JsonSerializerOptions);
+            await SaveTodosJsonAsync(TodosFileName, todos);
 
             var listGenerator = new ListGenerator(todos);
             await listGenerator.CreateList("Skywalker Saga", updatedMedia.Where(x => x.IsMovie() && x.Title.StartsWith("Star Wars: Episode")));
@@ -41,10 +38,10 @@ namespace CheckTheThings.StarWars
             return await JsonSerializer.DeserializeAsync<List<Todo>>(inputStream) ?? new(0);
         }
 
-        static async Task SaveTodosJsonAsync(string fileName, List<Todo> newTodos, JsonSerializerOptions jsonSerializerOptions)
+        static async Task SaveTodosJsonAsync(string fileName, List<Todo> todos)
         {
             using var stream = File.OpenWrite(fileName);
-            await JsonSerializer.SerializeAsync(stream, newTodos, jsonSerializerOptions);
+            await JsonSerializer.SerializeAsync(stream, todos, JsonFile.JsonSerializerOptions);
         }
 
         static async Task<IEnumerable<Media>> GetMedia()
