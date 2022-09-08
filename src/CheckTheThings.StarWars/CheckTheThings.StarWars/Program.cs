@@ -1,5 +1,4 @@
-﻿using System.Text.Json;
-using CheckTheThings.StarWars.Wookieepedia;
+﻿using CheckTheThings.StarWars.Wookieepedia;
 
 namespace CheckTheThings.StarWars
 {
@@ -9,7 +8,7 @@ namespace CheckTheThings.StarWars
 
         private static async Task Main(string[] args)
         {
-            var todos = await ReadTodosFromJsonAsync(TodosFileName);
+            var todos = await JsonFile.ReadTodosAsync(TodosFileName);
             int maxId = todos.Any() ? todos.Max(x => x.Id) : 0;
 
             var updatedMedia = (await GetMedia()).ToList();
@@ -20,7 +19,7 @@ namespace CheckTheThings.StarWars
                             select new Todo(GetNextTodoId(), m.Title, m.Link)).ToList();
 
             todos = todos.Union(newTodos).ToList();
-            await SaveTodosJsonAsync(TodosFileName, todos);
+            await JsonFile.WriteTodosAsync(TodosFileName, todos);
 
             var listGenerator = new ListGenerator(todos);
             //await listGenerator.CreateList("Skywalker Saga", updatedMedia.Where(x => x.IsMovie() && x.Title.StartsWith("Star Wars: Episode")));
@@ -51,21 +50,6 @@ namespace CheckTheThings.StarWars
             await listGenerator.CreateList(GetTitle("Short Stories"), media.Where(x => x.IsShortStory()));
 
             static string GetTitle(string baseTitle) => $"{baseTitle} (Legends)";
-        }
-
-        static async Task<List<Todo>> ReadTodosFromJsonAsync(string fileName)
-        {
-            if (!File.Exists(fileName))
-                return new(0);
-
-            using var inputStream = File.OpenRead(fileName);
-            return await JsonSerializer.DeserializeAsync<List<Todo>>(inputStream, JsonFile.JsonSerializerOptions) ?? new(0);
-        }
-
-        static async Task SaveTodosJsonAsync(string fileName, List<Todo> todos)
-        {
-            using var stream = File.OpenWrite(fileName);
-            await JsonSerializer.SerializeAsync(stream, todos, JsonFile.JsonSerializerOptions);
         }
 
         static async Task<IEnumerable<Media>> GetMedia()
