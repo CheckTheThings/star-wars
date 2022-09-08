@@ -12,7 +12,7 @@ namespace CheckTheThings.StarWars
             var todos = await ReadTodosFromJsonAsync(TodosFileName);
             int maxId = todos.Any() ? todos.Max(x => x.Id) : 0;
 
-            var updatedMedia = await GetMedia();
+            var updatedMedia = (await GetMedia()).ToList();
             var newTodos = (from m in updatedMedia
                             join _ in todos on m.Link equals _.Link into gj
                             from t in gj.DefaultIfEmpty()
@@ -25,7 +25,16 @@ namespace CheckTheThings.StarWars
             var listGenerator = new ListGenerator(todos);
             await listGenerator.CreateList("Skywalker Saga", updatedMedia.Where(x => x.IsMovie() && x.Title.StartsWith("Star Wars: Episode")));
 
+            await AddCanonLists(updatedMedia, listGenerator);
+
             int GetNextTodoId() => ++maxId;
+        }
+
+        private static async Task AddCanonLists(List<Media> updatedMedia, ListGenerator listGenerator)
+        {
+            var canonMedia = updatedMedia.Where(x => x.IsCanon()).ToList();
+            await listGenerator.CreateList("Movies (Canon)", canonMedia.Where(x => x.IsMovie()));
+            await listGenerator.CreateList("Novels (Canon)", canonMedia.Where(x => x.IsNovel()));
         }
 
         static async Task<List<Todo>> ReadTodosFromJsonAsync(string fileName)

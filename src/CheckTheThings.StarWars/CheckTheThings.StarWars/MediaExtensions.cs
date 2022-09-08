@@ -8,5 +8,6 @@ namespace CheckTheThings.StarWars
         public static bool IsLegends(this Media media) => media.Tags.Contains("Legends");
         public static bool IsMovie(this Media media) => media.Classes.Contains("film");
         public static bool IsNovel(this Media media) => media.Classes.Contains("novel");
+        public static bool IsPublished(this Media media) => !media.Classes.Contains("unpublished");
     }
 }
