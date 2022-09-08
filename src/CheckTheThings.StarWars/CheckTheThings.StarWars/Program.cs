@@ -34,7 +34,7 @@ namespace CheckTheThings.StarWars
                 return new(0);
 
             using var inputStream = File.OpenRead(fileName);
-            return await JsonSerializer.DeserializeAsync<List<Todo>>(inputStream) ?? new(0);
+            return await JsonSerializer.DeserializeAsync<List<Todo>>(inputStream, JsonFile.JsonSerializerOptions) ?? new(0);
         }
 
         static async Task SaveTodosJsonAsync(string fileName, List<Todo> todos)
