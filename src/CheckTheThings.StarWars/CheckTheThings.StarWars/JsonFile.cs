@@ -4,8 +4,7 @@ namespace CheckTheThings.StarWars
 {
     public static class JsonFile
     {
-        public const string OutputDirectory = @"..\..\..\..\..\..\data";
-        public static readonly JsonSerializerOptions JsonSerializerOptions = new() { WriteIndented = true, PropertyNamingPolicy = JsonNamingPolicy.CamelCase };
+        private static readonly JsonSerializerOptions JsonSerializerOptions = new() { WriteIndented = true, PropertyNamingPolicy = JsonNamingPolicy.CamelCase };
 
         public static async Task<List<Todo>> ReadTodosAsync(string fileName)
         {
@@ -37,6 +36,6 @@ namespace CheckTheThings.StarWars
             await JsonSerializer.SerializeAsync(stream, checklist, JsonSerializerOptions);
         }
 
-        public static int GetNumberOfFiles() => Directory.GetFiles(OutputDirectory).Length;
+        public static int GetNumberOfFiles(string path) => Directory.GetFiles(path).Length;
     }
 }

@@ -4,7 +4,9 @@ namespace CheckTheThings.StarWars
 {
     internal class Program
     {
-        const string TodosFileName = @$"{JsonFile.OutputDirectory}\todos.json";
+        public const string OutputDirectory = @"..\..\..\..\..\..\data";
+
+        const string TodosFileName = @$"{OutputDirectory}\todos.json";
 
         private static async Task Main(string[] args)
         {

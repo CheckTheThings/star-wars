@@ -10,12 +10,12 @@ namespace CheckTheThings.StarWars
         public ListGenerator(List<Todo> todos)
         {
             _todos = todos;
-            _maxId = JsonFile.GetNumberOfFiles() - 1;
+            _maxId = JsonFile.GetNumberOfFiles(Program.OutputDirectory) - 1;
         }
 
         public async Task CreateList(string title, IEnumerable<Media> mediaList)
         {
-            var fileName = $@"{JsonFile.OutputDirectory}/{title}.json";
+            var fileName = $@"{Program.OutputDirectory}/{title}.json";
             var checklist = await JsonFile.ReadChecklistAsync(fileName);
             var checklistItems = checklist?.Items ?? Array.Empty<ChecklistItem>();
 
