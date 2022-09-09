@@ -6,14 +6,25 @@ namespace CheckTheThings.StarWars
     {
         public const string OutputDirectory = @"..\..\..\..\..\..\data";
 
-        const string TodosFileName = @$"{OutputDirectory}\todos.json";
-
         private static async Task Main(string[] args)
         {
-            var todos = await JsonFile.ReadTodosAsync(TodosFileName);
+            var updatedMedia = (await GetMedia()).ToList();
+            var todos = await AddTodosAsync(updatedMedia);
+
+            var listGenerator = new ListGenerator(todos);
+            //await listGenerator.CreateList("Skywalker Saga", updatedMedia.Where(x => x.IsMovie() && x.Title.StartsWith("Star Wars: Episode")));
+
+            await AddCanonLists(updatedMedia, listGenerator);
+            await AddLegendsLists(updatedMedia, listGenerator);
+        }
+
+        private static async Task<List<Todo>> AddTodosAsync(List<Media> updatedMedia)
+        {
+            var filePath = Path.Combine(OutputDirectory, "todos.json");
+
+            var todos = await JsonFile.ReadTodosAsync(filePath);
             int maxId = todos.Any() ? todos.Max(x => x.Id) : 0;
 
-            var updatedMedia = (await GetMedia()).ToList();
             var newTodos = (from m in updatedMedia
                             join _ in todos on m.Link equals _.Link into gj
                             from t in gj.DefaultIfEmpty()
@@ -21,13 +32,9 @@ namespace CheckTheThings.StarWars
                             select new Todo(GetNextTodoId(), m.Title, m.Link)).ToList();
 
             todos = todos.Union(newTodos).ToList();
-            await JsonFile.WriteTodosAsync(TodosFileName, todos);
+            await JsonFile.WriteTodosAsync(filePath, todos);
 
-            var listGenerator = new ListGenerator(todos);
-            //await listGenerator.CreateList("Skywalker Saga", updatedMedia.Where(x => x.IsMovie() && x.Title.StartsWith("Star Wars: Episode")));
-
-            await AddCanonLists(updatedMedia, listGenerator);
-            await AddLegendsLists(updatedMedia, listGenerator);
+            return todos;
 
             int GetNextTodoId() => ++maxId;
         }
