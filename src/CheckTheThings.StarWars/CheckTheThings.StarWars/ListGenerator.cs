@@ -15,7 +15,7 @@ namespace CheckTheThings.StarWars
 
         public async Task CreateList(string title, IEnumerable<Media> mediaList)
         {
-            var fileName = $@"{Program.OutputDirectory}/{title}.json";
+            var fileName = $@"{Program.ChecklistDirectory}/{title}.json";
             var checklist = await JsonFile.ReadChecklistAsync(fileName);
             var checklistItems = checklist?.Items ?? Array.Empty<ChecklistItem>();
 

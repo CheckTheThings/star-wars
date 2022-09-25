@@ -5,6 +5,7 @@ namespace CheckTheThings.StarWars
     internal class Program
     {
         public const string OutputDirectory = @"..\..\..\..\..\..\data";
+        public const string ChecklistDirectory = $@"{OutputDirectory}\lists";
 
         private static async Task Main(string[] args)
         {
