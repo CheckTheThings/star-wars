@@ -1,0 +1,17 @@
+<package>
+    <metadata minClientVersion="4.0">
+        <id>checkthethings.starwars.data</id>
+        <version>0.1.5</version>
+        <description>Lists and sublists of Star Wars media.</description>
+        <authors>MisinformedDNA</authors>
+        <license type="expression">MIT</license>
+        <repository type="git" url="https://github.com/CheckTheThings/star-wars.git" />
+        <developmentDependency>true</developmentDependency>
+        <contentFiles>
+            <files include="**\data\**\*.json" buildAction="Content" copyToOutput="true" />
+        </contentFiles>
+    </metadata>
+    <files>
+        <file src="data\**\*" target="contentFiles\any\any\data" />
+    </files>
+</package>
