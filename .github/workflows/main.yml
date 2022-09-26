@@ -1,0 +1,21 @@
+name: CI
+
+on:
+  push:
+    branches: [ "main" ]
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: nuget/setup-nuget@v1
+      - run: nuget pack .nuspec
+
+      - run: dotnet nuget add source --username CheckTheThings --password ${{ secrets.GITHUB_TOKEN }} --store-password-in-clear-text --name github "https://nuget.pkg.github.com/CheckTheThings/index.json"
+      - run: dotnet nuget push *.nupkg --source "github"
+      
