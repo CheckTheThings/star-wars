@@ -20,5 +20,5 @@ jobs:
       - run: nuget pack .nuspec
 
       - run: dotnet nuget add source --username CheckTheThings --password ${{ secrets.GITHUB_TOKEN }} --store-password-in-clear-text --name github "https://nuget.pkg.github.com/CheckTheThings/index.json"
-      - run: dotnet nuget push *.nupkg
+      - run: dotnet nuget push *.nupkg --source "github"
       
